@@ -1,0 +1,5 @@
+{
+  "enter_menu": {
+    "hello": "hello {{user_id}}"
+  }
+}
