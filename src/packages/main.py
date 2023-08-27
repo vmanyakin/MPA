@@ -1,6 +1,5 @@
 from aiogram import executor
 from bot import dispatcher
-from bot.utils import LoadFile
 
 
 def main():
