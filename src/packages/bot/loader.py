@@ -11,4 +11,5 @@ dispatcher = Dispatcher(bot, storage=storage)
 load_json = LoadFile().load_text_messages()
 template_json = Template
 
+print(load_json)
 

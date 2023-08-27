@@ -1,5 +1,4 @@
 import json
-
 from .load_path import PathStorage
 
 
@@ -17,3 +16,4 @@ class LoadFile:
             return data
         except FileNotFoundError as exception:
             raise Exception(f"File not found see 'data' folder: {exception}")
+

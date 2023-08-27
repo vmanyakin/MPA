@@ -6,7 +6,7 @@ class PathStorage:
     Allows you to get absolute paths to the main files and directories of the project using the
     __pathlib__ library.
     """
-    _DEPTH_RELATIVE_TO_PROJECT_ROOT = 4
+    _DEPTH_RELATIVE_TO_PROJECT_ROOT = 3
     _ABSOLUTE_PATH_TO_PROJECT_ROOT = Path(__file__).parents[_DEPTH_RELATIVE_TO_PROJECT_ROOT]
 
     @classmethod

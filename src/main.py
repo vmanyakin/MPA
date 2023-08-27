@@ -1,5 +1,5 @@
 from aiogram import executor
-from bot import dispatcher
+from src.packages.bot import dispatcher
 
 
 def main():
