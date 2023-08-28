@@ -11,7 +11,7 @@ class LoadFile:
     @classmethod
     def load_text_messages(cls):
         try:
-            with open(cls.path / "text_messages.json") as json_file:
+            with open(cls.path / "text_messages.json", encoding="utf-8") as json_file:
                 data = json.load(json_file)
             return data
         except FileNotFoundError as exception:

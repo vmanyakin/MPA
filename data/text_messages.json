@@ -1,5 +1,11 @@
 {
   "enter_menu": {
-    "hello": "hello {{user_id}}"
+    "hello": "Привет {{user_id}}!"
+  },
+  "chat_gpt": {
+    "chat_start": "Задай свой вопрос",
+    "chat_dialog": "ChatGPT ищет ответ ...",
+    "chat_reset": "Контекст сброшен! Какой твой следующий вопрос?",
+    "chat_complete": "ChatGPT классная штука! У меня есть еще функции"
   }
 }
