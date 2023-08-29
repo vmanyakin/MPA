@@ -24,7 +24,3 @@ class PathStorage:
     @classmethod
     def get_path_to_src(cls) -> Path:
         return cls._ABSOLUTE_PATH_TO_PROJECT_ROOT / "src"
-
-
-
-

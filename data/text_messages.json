@@ -1,11 +1,17 @@
 {
+  "label_MPA": "\n\n\uD83C\uDFAEMPA",
   "enter_menu": {
     "hello": "Привет {{user_id}}!"
   },
   "chat_gpt": {
+    "label": "\n\n\uD83E\uDD16ChatGPT",
     "chat_start": "Задай свой вопрос",
     "chat_dialog": "ChatGPT ищет ответ ...",
     "chat_reset": "Контекст сброшен! Какой твой следующий вопрос?",
     "chat_complete": "ChatGPT классная штука! У меня есть еще функции"
+  },
+  "salutespeech": {
+    "label": "\n\n\uD83D\uDDE3SaluteSpeech",
+    "salutespeech_start": "Голос в текст"
   }
 }
