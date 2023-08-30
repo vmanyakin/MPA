@@ -9,6 +9,7 @@ from src.packages.utils import LoadFile
 bot = Bot(dotenv_values().get("API_KEY_TELEGRAM"))
 openai.api_key = dotenv_values().get("API_KEY_OPENAI")
 salutespeech_api_key = dotenv_values().get("API_KEY_SALUTESPEECH")
+nasa_api_key = dotenv_values().get("API_KEY_NASA")
 storage = MemoryStorage()
 dispatcher = Dispatcher(bot, storage=storage)
 load_json = LoadFile().load_text_messages()
