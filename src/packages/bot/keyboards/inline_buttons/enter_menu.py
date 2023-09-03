@@ -10,7 +10,7 @@ hello_keyboard = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text="🗣SaluteSpeech", callback_data="SaluteSpeech"),
-            InlineKeyboardButton(text="🤡Анекдот", callback_data="Анекдот"),
+            InlineKeyboardButton(text="🤡Анекдоты", callback_data="Анекдоты"),
             InlineKeyboardButton(text="⚙️Тех", callback_data="Тех"),
         ]
 

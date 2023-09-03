@@ -1,1 +1,1 @@
-from .users import ChatGPT,NASA
+from .users import ChatGPT, NASA, Tech

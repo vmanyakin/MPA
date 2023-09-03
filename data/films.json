@@ -1,0 +1,2502 @@
+{
+  "1": {
+    "title": "Зеленая миля",
+    "genre": "драма",
+    "director": "Фрэнк Дарабонт",
+    "country": "США",
+    "year": "1999",
+    "duration": "189 мин.",
+    "rating": "9.2",
+    "trailer": "https://www.youtube.com/watch?v=TODt_q-_4C4\\u0026pp=ygUr0JfQtdC70LXQvdCw0Y8g0LzQuNC70Y8gMTk5OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "2": {
+    "title": "Побег из Шоушенка",
+    "genre": "драма",
+    "director": "Фрэнк Дарабонт",
+    "country": "США",
+    "year": "1994",
+    "duration": "142 мин.",
+    "rating": "9.0",
+    "trailer": "https://www.youtube.com/watch?v=kgAeKpAPOYk\\u0026pp=ygU00J_QvtCx0LXQsyDQuNC3INCo0L7Rg9GI0LXQvdC60LAgMTk5NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "3": {
+    "title": "Форрест Гамп",
+    "genre": "драма",
+    "director": "Роберт Земекис",
+    "country": "США",
+    "year": "1994",
+    "duration": "142 мин.",
+    "rating": "9.0",
+    "trailer": "https://www.youtube.com/watch?v=otmeAaifX04\\u0026pp=ygUr0KTQvtGA0YDQtdGB0YIg0JPQsNC80L8gMTk5NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "4": {
+    "title": "Список Шиндлера",
+    "genre": "драма",
+    "director": "Стивен Спилберг",
+    "country": "США",
+    "year": "1993",
+    "duration": "195 мин.",
+    "rating": "8.9",
+    "trailer": "https://www.youtube.com/watch?v=4r2Z0U9Y53o\\u0026pp=ygUx0KHQv9C40YHQvtC6INCo0LjQvdC00LvQtdGA0LAgMTk5MyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "5": {
+    "title": "1+1",
+    "genre": "драма",
+    "director": "Оливье Накаш",
+    "country": "Франция",
+    "year": "2011",
+    "duration": "112 мин.",
+    "rating": "8.9",
+    "trailer": "https://www.youtube.com/watch?v=tTwFeGArcrs\\u0026pp=ygUXMSAxIDIwMTEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "6": {
+    "title": "Властелин колец: Возвращение короля",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2003",
+    "duration": "201 мин.",
+    "rating": "8.9",
+    "trailer": "https://www.youtube.com/watch?v=lxAeV1-KpSA\\u0026pp=ygVW0JLQu9Cw0YHRgtC10LvQuNC9INC60L7Qu9C10YY6INCS0L7Qt9Cy0YDQsNGJ0LXQvdC40LUg0LrQvtGA0L7Qu9GPIDIwMDMg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "7": {
+    "title": "Тайна Коко",
+    "genre": "мультфильм",
+    "director": "Ли Анкрич",
+    "country": "США",
+    "year": "2017",
+    "duration": "105 мин.",
+    "rating": "8.9",
+    "trailer": "https://www.youtube.com/watch?v=HMnUSq3dC1g\\u0026pp=ygUn0KLQsNC50L3QsCDQmtC-0LrQviAyMDE3INGC0YDQtdC50LvQtdGA"
+  },
+  "8": {
+    "title": "Интерстеллар",
+    "genre": "фантастика",
+    "director": "Кристофер Нолан",
+    "country": "США",
+    "year": "2014",
+    "duration": "169 мин.",
+    "rating": "8.9",
+    "trailer": "https://www.youtube.com/watch?v=qcPfI0y7wRU\\u0026pp=ygUs0JjQvdGC0LXRgNGB0YLQtdC70LvQsNGAIDIwMTQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "9": {
+    "title": "Бойцовский клуб",
+    "genre": "триллер",
+    "director": "Дэвид Финчер",
+    "country": "США",
+    "year": "1999",
+    "duration": "139 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=C7-7qQ61QHU\\u0026pp=ygUx0JHQvtC50YbQvtCy0YHQutC40Lkg0LrQu9GD0LEgMTk5OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "10": {
+    "title": "Унесённые призраками",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "2001",
+    "duration": "125 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=bgxiTkAlQrw\\u0026pp=ygU70KPQvdC10YHRkdC90L3Ri9C1INC_0YDQuNC30YDQsNC60LDQvNC4IDIwMDEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "11": {
+    "title": "Криминальное чтиво",
+    "genre": "криминал",
+    "director": "Квентин Тарантино",
+    "country": "США",
+    "year": "1994",
+    "duration": "154 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=vBADUmfa9Q4\\u0026pp=ygU30JrRgNC40LzQuNC90LDQu9GM0L3QvtC1INGH0YLQuNCy0L4gMTk5NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "12": {
+    "title": "Иван Васильевич меняет профессию",
+    "genre": "комедия",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1973",
+    "duration": "88 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=0IALFVo90K4\\u0026pp=ygVR0JjQstCw0L0g0JLQsNGB0LjQu9GM0LXQstC40Ycg0LzQtdC90Y_QtdGCINC_0YDQvtGE0LXRgdGB0LjRjiAxOTczINGC0YDQtdC50LvQtdGA"
+  },
+  "13": {
+    "title": "Властелин колец: Братство Кольца",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2001",
+    "duration": "178 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=RNksw9VU2BQ\\u0026pp=ygVQ0JLQu9Cw0YHRgtC10LvQuNC9INC60L7Qu9C10YY6INCR0YDQsNGC0YHRgtCy0L4g0JrQvtC70YzRhtCwIDIwMDEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "14": {
+    "title": "Властелин колец: Две крепости",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2002",
+    "duration": "179 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=n8EaedqFfuU\\u0026pp=ygVK0JLQu9Cw0YHRgtC10LvQuNC9INC60L7Qu9C10YY6INCU0LLQtSDQutGA0LXQv9C-0YHRgtC4IDIwMDIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "15": {
+    "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
+    "genre": "детектив",
+    "director": "Игорь Масленников",
+    "country": "СССР",
+    "year": "1981",
+    "duration": "154 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=IJoE7GyE1cc\\u0026pp=ygWMAdCf0YDQuNC60LvRjtGH0LXQvdC40Y8g0KjQtdGA0LvQvtC60LAg0KXQvtC70LzRgdCwINC4INC00L7QutGC0L7RgNCwINCS0LDRgtGB0L7QvdCwOiDQodC-0LHQsNC60LAg0JHQsNGB0LrQtdGA0LLQuNC70LXQuSAxOTgxINGC0YDQtdC50LvQtdGA"
+  },
+  "16": {
+    "title": "Король Лев",
+    "genre": "мультфильм",
+    "director": "Роджер Аллерс",
+    "country": "США",
+    "year": "1994",
+    "duration": "88 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=w5xsFvmAxrs\\u0026pp=ygUn0JrQvtGA0L7Qu9GMINCb0LXQsiAxOTk0INGC0YDQtdC50LvQtdGA"
+  },
+  "17": {
+    "title": "Шрэк",
+    "genre": "мультфильм",
+    "director": "Эндрю Адамсон",
+    "country": "США",
+    "year": "2001",
+    "duration": "90 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=1w1wBO-hlmA\\u0026pp=ygUc0KjRgNGN0LogMjAwMSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "18": {
+    "title": "Шерлок Холмс и доктор Ватсон: Знакомство",
+    "genre": "криминал",
+    "director": "Игорь Масленников",
+    "country": "СССР",
+    "year": "1979",
+    "duration": "68 мин.",
+    "rating": "8.8",
+    "trailer": "https://www.youtube.com/watch?v=VYML35ZisMQ\\u0026pp=ygVe0KjQtdGA0LvQvtC6INCl0L7Qu9C80YEg0Lgg0LTQvtC60YLQvtGAINCS0LDRgtGB0L7QvTog0JfQvdCw0LrQvtC80YHRgtCy0L4gMTk3OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "19": {
+    "title": "Назад в будущее",
+    "genre": "фантастика",
+    "director": "Роберт Земекис",
+    "country": "США",
+    "year": "1985",
+    "duration": "116 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=ou8w0gQHlRE\\u0026pp=ygUw0J3QsNC30LDQtCDQsiDQsdGD0LTRg9GJ0LXQtSAxOTg1INGC0YDQtdC50LvQtdGA"
+  },
+  "20": {
+    "title": "Достучаться до небес",
+    "genre": "драма",
+    "director": "Томас Ян",
+    "country": "Германия",
+    "year": "1997",
+    "duration": "87 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=n0JXGT8qdH4\\u0026pp=ygU60JTQvtGB0YLRg9GH0LDRgtGM0YHRjyDQtNC-INC90LXQsdC10YEgMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "21": {
+    "title": "Москва слезам не верит",
+    "genre": "мелодрама",
+    "director": "Владимир Меньшов",
+    "country": "СССР",
+    "year": "1979",
+    "duration": "150 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=9noEXoYStAA\\u0026pp=ygU90JzQvtGB0LrQstCwINGB0LvQtdC30LDQvCDQvdC1INCy0LXRgNC40YIgMTk3OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "22": {
+    "title": "Джентльмены удачи",
+    "genre": "комедия",
+    "director": "Александр Серый",
+    "country": "СССР",
+    "year": "1971",
+    "duration": "84 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=bJlTZraE2n8\\u0026pp=ygU10JTQttC10L3RgtC70YzQvNC10L3RiyDRg9C00LDRh9C4IDE5NzEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "23": {
+    "title": "Терминатор 2: Судный день",
+    "genre": "фантастика",
+    "director": "Джеймс Кэмерон",
+    "country": "США",
+    "year": "1991",
+    "duration": "137 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=M-SIftG16hU\\u0026pp=ygVB0KLQtdGA0LzQuNC90LDRgtC-0YAgMjog0KHRg9C00L3Ri9C5INC00LXQvdGMIDE5OTEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "24": {
+    "title": "Остров проклятых",
+    "genre": "триллер",
+    "director": "Мартин Скорсезе",
+    "country": "США",
+    "year": "2009",
+    "duration": "138 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=wd6LnQm9HPo\\u0026pp=ygUz0J7RgdGC0YDQvtCyINC_0YDQvtC60LvRj9GC0YvRhSAyMDA5INGC0YDQtdC50LvQtdGA"
+  },
+  "25": {
+    "title": "Ходячий замок",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "2004",
+    "duration": "119 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=BEMKFN7Yiw8\\u0026pp=ygUt0KXQvtC00Y_Rh9C40Lkg0LfQsNC80L7QuiAyMDA0INGC0YDQtdC50LvQtdGA"
+  },
+  "26": {
+    "title": "Гарри Поттер и узник Азкабана",
+    "genre": "фэнтези",
+    "director": "Альфонсо Куарон",
+    "country": "Великобритания",
+    "year": "2004",
+    "duration": "142 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=IB7OXZ6WkzQ\\u0026pp=ygVK0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0YPQt9C90LjQuiDQkNC30LrQsNCx0LDQvdCwIDIwMDQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "27": {
+    "title": "Операция «Ы» и другие приключения Шурика",
+    "genre": "комедия",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1965",
+    "duration": "95 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=xJ5iHFSdAU4\\u0026pp=ygVf0J7Qv9C10YDQsNGG0LjRjyDCq9Crwrsg0Lgg0LTRgNGD0LPQuNC1INC_0YDQuNC60LvRjtGH0LXQvdC40Y8g0KjRg9GA0LjQutCwIDE5NjUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "28": {
+    "title": "Девчата",
+    "genre": "мелодрама",
+    "director": "Юрий Чулюкин",
+    "country": "СССР",
+    "year": "1962",
+    "duration": "92 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=LaCUkjlQuVw\\u0026pp=ygUi0JTQtdCy0YfQsNGC0LAgMTk2MiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "29": {
+    "title": "ВАЛЛ·И",
+    "genre": "мультфильм",
+    "director": "Эндрю Стэнтон",
+    "country": "США",
+    "year": "2008",
+    "duration": "98 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=ArYV7DBw-x8\\u0026pp=ygUg0JLQkNCb0JvCt9CYIDIwMDgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "30": {
+    "title": "Темный рыцарь",
+    "genre": "фантастика",
+    "director": "Кристофер Нолан",
+    "country": "США",
+    "year": "2008",
+    "duration": "152 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=HF1_epZNoCg\\u0026pp=ygUt0KLQtdC80L3Ri9C5INGA0YvRhtCw0YDRjCAyMDA4INGC0YDQtdC50LvQtdGA"
+  },
+  "31": {
+    "title": "Джентльмены",
+    "genre": "криминал",
+    "director": "Гай Ричи",
+    "country": "Великобритания",
+    "year": "2019",
+    "duration": "113 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=dABPCMxu074\\u0026pp=ygUq0JTQttC10L3RgtC70YzQvNC10L3RiyAyMDE5INGC0YDQtdC50LvQtdGA"
+  },
+  "32": {
+    "title": "...А зори здесь тихие",
+    "genre": "драма",
+    "director": "Станислав Ростоцкий",
+    "country": "СССР",
+    "year": "1972",
+    "duration": "160 мин.",
+    "rating": "8.7",
+    "trailer": "https://www.youtube.com/watch?v=k2jYcjHtwWU\\u0026pp=ygU4Li4u0JAg0LfQvtGA0Lgg0LfQtNC10YHRjCDRgtC40YXQuNC1IDE5NzIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "33": {
+    "title": "Начало",
+    "genre": "фантастика",
+    "director": "Кристофер Нолан",
+    "country": "США",
+    "year": "2010",
+    "duration": "148 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=85Zz1CCXyDI\\u0026pp=ygUg0J3QsNGH0LDQu9C-IDIwMTAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "34": {
+    "title": "Они сражались за Родину",
+    "genre": "драма",
+    "director": "Сергей Бондарчук",
+    "country": "СССР",
+    "year": "1975",
+    "duration": "160 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=xfUlR_nuBb4\\u0026pp=ygU_0J7QvdC4INGB0YDQsNC20LDQu9C40YHRjCDQt9CwINCg0L7QtNC40L3RgyAxOTc1INGC0YDQtdC50LvQtdGA"
+  },
+  "35": {
+    "title": "Гарри Поттер и философский камень",
+    "genre": "фэнтези",
+    "director": "Крис Коламбус",
+    "country": "Великобритания",
+    "year": "2001",
+    "duration": "152 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=ppnEwu-z9kU\\u0026pp=ygVS0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0YTQuNC70L7RgdC-0YTRgdC60LjQuSDQutCw0LzQtdC90YwgMjAwMSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "36": {
+    "title": "Леон",
+    "genre": "боевик",
+    "director": "Люк Бессон",
+    "country": "Франция",
+    "year": "1994",
+    "duration": "133 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=hvya_q8KM80\\u0026pp=ygUc0JvQtdC-0L0gMTk5NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "37": {
+    "title": "Поймай меня, если сможешь",
+    "genre": "криминал",
+    "director": "Стивен Спилберг",
+    "country": "США",
+    "year": "2002",
+    "duration": "141 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=nH3wJYOlXYw\\u0026pp=ygVC0J_QvtC50LzQsNC5INC80LXQvdGPLCDQtdGB0LvQuCDRgdC80L7QttC10YjRjCAyMDAyINGC0YDQtdC50LvQtdGA"
+  },
+  "38": {
+    "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
+    "genre": "фэнтези",
+    "director": "Гор Вербински",
+    "country": "США",
+    "year": "2003",
+    "duration": "143 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=SBxju8HuSIQ\\u0026pp=ygVy0J_QuNGA0LDRgtGLINCa0LDRgNC40LHRgdC60L7Qs9C-INC80L7RgNGPOiDQn9GA0L7QutC70Y_RgtC40LUg0KfQtdGA0L3QvtC5INC20LXQvNGH0YPQttC40L3RiyAyMDAzINGC0YDQtdC50LvQtdGA"
+  },
+  "39": {
+    "title": "Собачье сердце",
+    "genre": "фантастика",
+    "director": "Владимир Бортко",
+    "country": "СССР",
+    "year": "1988",
+    "duration": "136 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=cYOo77ZM8Oo\\u0026pp=ygUv0KHQvtCx0LDRh9GM0LUg0YHQtdGA0LTRhtC1IDE5ODgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "40": {
+    "title": "Клаус",
+    "genre": "мультфильм",
+    "director": "Серхио Паблос",
+    "country": "Испания",
+    "year": "2019",
+    "duration": "96 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=b_QKhM7jV-s\\u0026pp=ygUe0JrQu9Cw0YPRgSAyMDE5INGC0YDQtdC50LvQtdGA"
+  },
+  "41": {
+    "title": "Большой куш",
+    "genre": "криминал",
+    "director": "Гай Ричи",
+    "country": "Великобритания",
+    "year": "2000",
+    "duration": "104 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=4W2B-gM4S2c\\u0026pp=ygUp0JHQvtC70YzRiNC-0Lkg0LrRg9GIIDIwMDAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "42": {
+    "title": "Бриллиантовая рука",
+    "genre": "комедия",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1968",
+    "duration": "94 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=aDvuA9xGVbE\\u0026pp=ygU30JHRgNC40LvQu9C40LDQvdGC0L7QstCw0Y8g0YDRg9C60LAgMTk2OCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "43": {
+    "title": "Титаник",
+    "genre": "мелодрама",
+    "director": "Джеймс Кэмерон",
+    "country": "США",
+    "year": "1997",
+    "duration": "194 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=CHekzSiZjrY\\u0026pp=ygUi0KLQuNGC0LDQvdC40LogMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "44": {
+    "title": "Зеленая книга",
+    "genre": "биография",
+    "director": "Питер Фаррелли",
+    "country": "США",
+    "year": "2018",
+    "duration": "130 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=e6b9urtUJt0\\u0026pp=ygUt0JfQtdC70LXQvdCw0Y8g0LrQvdC40LPQsCAyMDE4INGC0YDQtdC50LvQtdGA"
+  },
+  "45": {
+    "title": "Кавказская пленница, или Новые приключения Шурика",
+    "genre": "комедия",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1966",
+    "duration": "82 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=P2_sjEURwgo\\u0026pp=ygVw0JrQsNCy0LrQsNC30YHQutCw0Y8g0L_Qu9C10L3QvdC40YbQsCwg0LjQu9C4INCd0L7QstGL0LUg0L_RgNC40LrQu9GO0YfQtdC90LjRjyDQqNGD0YDQuNC60LAgMTk2NiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "46": {
+    "title": "Хатико: Самый верный друг",
+    "genre": "драма",
+    "director": "Лассе Халльстрём",
+    "country": "США",
+    "year": "2008",
+    "duration": "89 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=veRyWok4bO8\\u0026pp=ygVC0KXQsNGC0LjQutC-OiDQodCw0LzRi9C5INCy0LXRgNC90YvQuSDQtNGA0YPQsyAyMDA4INGC0YDQtdC50LvQtdGA"
+  },
+  "47": {
+    "title": "Гладиатор",
+    "genre": "история",
+    "director": "Ридли Скотт",
+    "country": "США",
+    "year": "2000",
+    "duration": "155 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=F2Dr7Qb2Zf8\\u0026pp=ygUm0JPQu9Cw0LTQuNCw0YLQvtGAIDIwMDAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "48": {
+    "title": "Гарри Поттер и Дары Смерти: Часть II",
+    "genre": "фэнтези",
+    "director": "Дэвид Йейтс",
+    "country": "Великобритания",
+    "year": "2011",
+    "duration": "130 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=O5aCY_MPmzc\\u0026pp=ygVT0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0JTQsNGA0Ysg0KHQvNC10YDRgtC4OiDQp9Cw0YHRgtGMIElJIDIwMTEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "49": {
+    "title": "Как приручить дракона",
+    "genre": "мультфильм",
+    "director": "Дин ДеБлуа",
+    "country": "США",
+    "year": "2010",
+    "duration": "98 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=6Gpj72qHMjE\\u0026pp=ygU80JrQsNC6INC_0YDQuNGA0YPRh9C40YLRjCDQtNGA0LDQutC-0L3QsCAyMDEwINGC0YDQtdC50LvQtdGA"
+  },
+  "50": {
+    "title": "Гарри Поттер и Тайная комната",
+    "genre": "фэнтези",
+    "director": "Крис Коламбус",
+    "country": "Великобритания",
+    "year": "2002",
+    "duration": "161 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=KZ2LPNjWeDM\\u0026pp=ygVK0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0KLQsNC50L3QsNGPINC60L7QvNC90LDRgtCwIDIwMDIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "51": {
+    "title": "Один дома",
+    "genre": "комедия",
+    "director": "Крис Коламбус",
+    "country": "США",
+    "year": "1990",
+    "duration": "103 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=bBU_64CTNsw\\u0026pp=ygUl0J7QtNC40L0g0LTQvtC80LAgMTk5MCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "52": {
+    "title": "Офицеры",
+    "genre": "драма",
+    "director": "Владимир Роговой",
+    "country": "СССР",
+    "year": "1971",
+    "duration": "91 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=DCstYEhOYPQ\\u0026pp=ygUi0J7RhNC40YbQtdGA0YsgMTk3MSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "53": {
+    "title": "Шрэк 2",
+    "genre": "мультфильм",
+    "director": "Эндрю Адамсон",
+    "country": "США",
+    "year": "2004",
+    "duration": "93 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=-j9GUX3GW00\\u0026pp=ygUe0KjRgNGN0LogMiAyMDA0INGC0YDQtdC50LvQtdGA"
+  },
+  "54": {
+    "title": "В бой идут одни «старики»",
+    "genre": "военный",
+    "director": "Леонид Быков",
+    "country": "СССР",
+    "year": "1973",
+    "duration": "87 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=bUehQB-RWQ4\\u0026pp=ygVC0JIg0LHQvtC5INC40LTRg9GCINC-0LTQvdC4IMKr0YHRgtCw0YDQuNC60LjCuyAxOTczINGC0YDQtdC50LvQtdGA"
+  },
+  "55": {
+    "title": "Служебный роман",
+    "genre": "мелодрама",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1977",
+    "duration": "159 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=rX1JWSTTksw\\u0026pp=ygUx0KHQu9GD0LbQtdCx0L3Ri9C5INGA0L7QvNCw0L0gMTk3NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "56": {
+    "title": "Брат",
+    "genre": "драма",
+    "director": "Алексей Балабанов",
+    "country": "Россия",
+    "year": "1997",
+    "duration": "100 мин.",
+    "rating": "8.6",
+    "trailer": "https://www.youtube.com/watch?v=aDaaCGZz-Ok\\u0026pp=ygUc0JHRgNCw0YIgMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "57": {
+    "title": "Брат 2",
+    "genre": "боевик",
+    "director": "Алексей Балабанов",
+    "country": "Россия",
+    "year": "2000",
+    "duration": "127 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=HBAADCHpS5s\\u0026pp=ygUe0JHRgNCw0YIgMiAyMDAwINGC0YDQtdC50LvQtdGA"
+  },
+  "58": {
+    "title": "Карты, деньги, два ствола",
+    "genre": "боевик",
+    "director": "Гай Ричи",
+    "country": "Великобритания",
+    "year": "1998",
+    "duration": "107 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=HwY1UqW3cgY\\u0026pp=ygVB0JrQsNGA0YLRiywg0LTQtdC90YzQs9C4LCDQtNCy0LAg0YHRgtCy0L7Qu9CwIDE5OTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "59": {
+    "title": "Жизнь прекрасна",
+    "genre": "военный",
+    "director": "Роберто Бениньи",
+    "country": "Италия",
+    "year": "1997",
+    "duration": "116 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=TcjfceqbC4M\\u0026pp=ygUx0JbQuNC30L3RjCDQv9GA0LXQutGA0LDRgdC90LAgMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "60": {
+    "title": "Мой сосед Тоторо",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "1988",
+    "duration": "86 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=19IVDAzcNxs\\u0026pp=ygUy0JzQvtC5INGB0L7RgdC10LQg0KLQvtGC0L7RgNC-IDE5ODgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "61": {
+    "title": "По соображениям совести",
+    "genre": "биография",
+    "director": "Мэл Гибсон",
+    "country": "Австралия",
+    "year": "2016",
+    "duration": "139 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=-KreEt8VnJE\\u0026pp=ygVA0J_QviDRgdC-0L7QsdGA0LDQttC10L3QuNGP0Lwg0YHQvtCy0LXRgdGC0LggMjAxNiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "62": {
+    "title": "Пианист",
+    "genre": "драма",
+    "director": "Роман Полански",
+    "country": "Франция",
+    "year": "2002",
+    "duration": "149 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=5LFEnbciXX0\\u0026pp=ygUi0J_QuNCw0L3QuNGB0YIgMjAwMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "63": {
+    "title": "Джанго освобожденный",
+    "genre": "вестерн",
+    "director": "Квентин Тарантино",
+    "country": "США",
+    "year": "2012",
+    "duration": "165 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=kznAtIhoWwE\\u0026pp=ygU70JTQttCw0L3Qs9C-INC-0YHQstC-0LHQvtC20LTQtdC90L3Ri9C5IDIwMTIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "64": {
+    "title": "Песнь моря",
+    "genre": "мультфильм",
+    "director": "Томм Мур",
+    "country": "Ирландия",
+    "year": "2014",
+    "duration": "93 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=pTJrxcJ4PwU\\u0026pp=ygUn0J_QtdGB0L3RjCDQvNC-0YDRjyAyMDE0INGC0YDQtdC50LvQtdGA"
+  },
+  "65": {
+    "title": "Человек-паук: Паутина вселенных",
+    "genre": "мультфильм",
+    "director": "Жуакин Душ Сантуш",
+    "country": "США",
+    "year": "2023",
+    "duration": "140 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=RE1vNn7tvX4\\u0026pp=ygVO0KfQtdC70L7QstC10Lot0L_QsNGD0Lo6INCf0LDRg9GC0LjQvdCwINCy0YHQtdC70LXQvdC90YvRhSAyMDIzINGC0YDQtdC50LvQtdGA"
+  },
+  "66": {
+    "title": "Остров сокровищ",
+    "genre": "мультфильм",
+    "director": "Давид Черкасский",
+    "country": "СССР",
+    "year": "1988",
+    "duration": "107 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=mcnbmCyBKW8\\u0026pp=ygUx0J7RgdGC0YDQvtCyINGB0L7QutGA0L7QstC40YkgMTk4OCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "67": {
+    "title": "Судьба человека",
+    "genre": "драма",
+    "director": "Сергей Бондарчук",
+    "country": "СССР",
+    "year": "1959",
+    "duration": "97 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=HOFFOnlGcO8\\u0026pp=ygUx0KHRg9C00YzQsdCwINGH0LXQu9C-0LLQtdC60LAgMTk1OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "68": {
+    "title": "Прислуга",
+    "genre": "драма",
+    "director": "Тейт Тейлор",
+    "country": "США",
+    "year": "2011",
+    "duration": "146 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=deHbb6-68-Y\\u0026pp=ygUk0J_RgNC40YHQu9GD0LPQsCAyMDExINGC0YDQtdC50LvQtdGA"
+  },
+  "69": {
+    "title": "Принцесса Мононоке",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "1997",
+    "duration": "134 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=PQ8TTT8jjWc\\u0026pp=ygU30J_RgNC40L3RhtC10YHRgdCwINCc0L7QvdC-0L3QvtC60LUgMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "70": {
+    "title": "Пеле: Рождение легенды",
+    "genre": "биография",
+    "director": "Джефф Цимбалист",
+    "country": "США",
+    "year": "2015",
+    "duration": "107 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=BCuS0Hz6J7c\\u0026pp=ygU90J_QtdC70LU6INCg0L7QttC00LXQvdC40LUg0LvQtdCz0LXQvdC00YsgMjAxNSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "71": {
+    "title": "Укрощение строптивого",
+    "genre": "мелодрама",
+    "director": "Франко Кастеллано",
+    "country": "Италия",
+    "year": "1980",
+    "duration": "107 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=txN1vzbbz28\\u0026pp=ygU90KPQutGA0L7RidC10L3QuNC1INGB0YLRgNC-0L_RgtC40LLQvtCz0L4gMTk4MCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "72": {
+    "title": "Тот самый Мюнхгаузен",
+    "genre": "фэнтези",
+    "director": "Марк Захаров",
+    "country": "СССР",
+    "year": "1979",
+    "duration": "134 мин.",
+    "rating": "8.5",
+    "trailer": "https://www.youtube.com/watch?v=cXB67pWhmfQ\\u0026pp=ygU60KLQvtGCINGB0LDQvNGL0Lkg0JzRjtC90YXQs9Cw0YPQt9C10L0gMTk3OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "73": {
+    "title": "Хоббит: Нежданное путешествие",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2012",
+    "duration": "169 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=AO86cNYJ4dI\\u0026pp=ygVL0KXQvtCx0LHQuNGCOiDQndC10LbQtNCw0L3QvdC-0LUg0L_Rg9GC0LXRiNC10YHRgtCy0LjQtSAyMDEyINGC0YDQtdC50LvQtdGA"
+  },
+  "74": {
+    "title": "Мужики!..",
+    "genre": "драма",
+    "director": "Искра Бабич",
+    "country": "СССР",
+    "year": "1981",
+    "duration": "97 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=N2T0QwhmO70\\u0026pp=ygUj0JzRg9C20LjQutC4IS4uIDE5ODEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "75": {
+    "title": "Шерлок Холмс и доктор Ватсон: Сокровища Агры",
+    "genre": "мелодрама",
+    "director": "Игорь Масленников",
+    "country": "СССР",
+    "year": "1983",
+    "duration": "151 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=_z7HFb06Ee8\\u0026pp=ygVl0KjQtdGA0LvQvtC6INCl0L7Qu9C80YEg0Lgg0LTQvtC60YLQvtGAINCS0LDRgtGB0L7QvTog0KHQvtC60YDQvtCy0LjRidCwINCQ0LPRgNGLIDE5ODMg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "76": {
+    "title": "Назад в будущее 2",
+    "genre": "фантастика",
+    "director": "Роберт Земекис",
+    "country": "США",
+    "year": "1989",
+    "duration": "108 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=mukVibYWQDQ\\u0026pp=ygUy0J3QsNC30LDQtCDQsiDQsdGD0LTRg9GJ0LXQtSAyIDE5ODkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "77": {
+    "title": "Матрица",
+    "genre": "фантастика",
+    "director": "Лана Вачовски",
+    "country": "США",
+    "year": "1999",
+    "duration": "136 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=YihPA42fdQ8\\u0026pp=ygUi0JzQsNGC0YDQuNGG0LAgMTk5OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "78": {
+    "title": "Хоббит: Битва пяти воинств",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2014",
+    "duration": "144 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=HPHTQL6Wb3s\\u0026pp=ygVE0KXQvtCx0LHQuNGCOiDQkdC40YLQstCwINC_0Y_RgtC4INCy0L7QuNC90YHRgtCyIDIwMTQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "79": {
+    "title": "Маленький принц",
+    "genre": "мультфильм",
+    "director": "Марк Осборн",
+    "country": "Франция",
+    "year": "2015",
+    "duration": "108 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=Cnxct7nWbYM\\u0026pp=ygUx0JzQsNC70LXQvdGM0LrQuNC5INC_0YDQuNC90YYgMjAxNSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "80": {
+    "title": "Пираты Карибского моря: Сундук мертвеца",
+    "genre": "фэнтези",
+    "director": "Гор Вербински",
+    "country": "США",
+    "year": "2006",
+    "duration": "151 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=kN2IxbyBE-8\\u0026pp=ygVd0J_QuNGA0LDRgtGLINCa0LDRgNC40LHRgdC60L7Qs9C-INC80L7RgNGPOiDQodGD0L3QtNGD0Log0LzQtdGA0YLQstC10YbQsCAyMDA2INGC0YDQtdC50LvQtdGA"
+  },
+  "81": {
+    "title": "Рататуй",
+    "genre": "мультфильм",
+    "director": "Брэд Бёрд",
+    "country": "США",
+    "year": "2007",
+    "duration": "111 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=mqV_C5eqUus\\u0026pp=ygUi0KDQsNGC0LDRgtGD0LkgMjAwNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "82": {
+    "title": "Крестный отец",
+    "genre": "драма",
+    "director": "Фрэнсис Форд Коппола",
+    "country": "США",
+    "year": "1972",
+    "duration": "175 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=E3b9jVCUh7Q\\u0026pp=ygUt0JrRgNC10YHRgtC90YvQuSDQvtGC0LXRhiAxOTcyINGC0YDQtdC50LvQtdGA"
+  },
+  "83": {
+    "title": "Одержимость",
+    "genre": "драма",
+    "director": "Дэмьен Шазелл",
+    "country": "США",
+    "year": "2013",
+    "duration": "106 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=Q9PxDPOo1jw\\u0026pp=ygUq0J7QtNC10YDQttC40LzQvtGB0YLRjCAyMDEzINGC0YDQtdC50LvQtdGA"
+  },
+  "84": {
+    "title": "Пятый элемент",
+    "genre": "фантастика",
+    "director": "Люк Бессон",
+    "country": "Франция",
+    "year": "1997",
+    "duration": "126 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=TsnQCIMUBZ0\\u0026pp=ygUt0J_Rj9GC0YvQuSDRjdC70LXQvNC10L3RgiAxOTk3INGC0YDQtdC50LvQtdGA"
+  },
+  "85": {
+    "title": "Волк с Уолл-стрит",
+    "genre": "драма",
+    "director": "Мартин Скорсезе",
+    "country": "США",
+    "year": "2013",
+    "duration": "180 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=CHivqmutR0I\\u0026pp=ygUz0JLQvtC70Log0YEg0KPQvtC70Lst0YHRgtGA0LjRgiAyMDEzINGC0YDQtdC50LvQtdGA"
+  },
+  "86": {
+    "title": "Иди и смотри",
+    "genre": "драма",
+    "director": "Элем Климов",
+    "country": "СССР",
+    "year": "1985",
+    "duration": "136 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=UkkJZweYaLI\\u0026pp=ygUq0JjQtNC4INC4INGB0LzQvtGC0YDQuCAxOTg1INGC0YDQtdC50LvQtdGA"
+  },
+  "87": {
+    "title": "Один дома 2: Затерянный в Нью-Йорке",
+    "genre": "комедия",
+    "director": "Крис Коламбус",
+    "country": "США",
+    "year": "1992",
+    "duration": "119 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=dfj7EkLQhl4\\u0026pp=ygVS0J7QtNC40L0g0LTQvtC80LAgMjog0JfQsNGC0LXRgNGP0L3QvdGL0Lkg0LIg0J3RjNGOLdCZ0L7RgNC60LUgMTk5MiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "88": {
+    "title": "Гарри Поттер и Кубок огня",
+    "genre": "фэнтези",
+    "director": "Майк Ньюэлл",
+    "country": "Великобритания",
+    "year": "2005",
+    "duration": "157 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=9dlfKvJvcbQ\\u0026pp=ygVC0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0JrRg9Cx0L7QuiDQvtCz0L3RjyAyMDA1INGC0YDQtdC50LvQtdGA"
+  },
+  "89": {
+    "title": "Корпорация монстров",
+    "genre": "мультфильм",
+    "director": "Пит Доктер",
+    "country": "США",
+    "year": "2001",
+    "duration": "92 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=vpKxMNGPVMY\\u0026pp=ygU50JrQvtGA0L_QvtGA0LDRhtC40Y8g0LzQvtC90YHRgtGA0L7QsiAyMDAxINGC0YDQtdC50LvQtdGA"
+  },
+  "90": {
+    "title": "Престиж",
+    "genre": "триллер",
+    "director": "Кристофер Нолан",
+    "country": "Великобритания",
+    "year": "2006",
+    "duration": "125 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=0B6O17m9sWE\\u0026pp=ygUi0J_RgNC10YHRgtC40LYgMjAwNiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "91": {
+    "title": "Ведьмина служба доставки",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "1989",
+    "duration": "103 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=924sGFHj-cI\\u0026pp=ygVC0JLQtdC00YzQvNC40L3QsCDRgdC70YPQttCx0LAg0LTQvtGB0YLQsNCy0LrQuCAxOTg5INGC0YDQtdC50LvQtdGA"
+  },
+  "92": {
+    "title": "Отступники",
+    "genre": "триллер",
+    "director": "Мартин Скорсезе",
+    "country": "США",
+    "year": "2006",
+    "duration": "151 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=4c8-L3dYBB8\\u0026pp=ygUo0J7RgtGB0YLRg9C_0L3QuNC60LggMjAwNiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "93": {
+    "title": "Зверополис",
+    "genre": "мультфильм",
+    "director": "Байрон Ховард",
+    "country": "США",
+    "year": "2016",
+    "duration": "108 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=pXCd3vMO3Pk\\u0026pp=ygUo0JfQstC10YDQvtC_0L7Qu9C40YEgMjAxNiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "94": {
+    "title": "Летят журавли",
+    "genre": "военный",
+    "director": "Михаил Калатозов",
+    "country": "СССР",
+    "year": "1957",
+    "duration": "95 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=2OccZQmxKac\\u0026pp=ygUt0JvQtdGC0Y_RgiDQttGD0YDQsNCy0LvQuCAxOTU3INGC0YDQtdC50LvQtdGA"
+  },
+  "95": {
+    "title": "Эрнест и Селестина: Приключения мышки и медведя",
+    "genre": "мультфильм",
+    "director": "Стефани Обье",
+    "country": "Франция",
+    "year": "2012",
+    "duration": "80 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=kDwgh2zt9gE\\u0026pp=ygVr0K3RgNC90LXRgdGCINC4INCh0LXQu9C10YHRgtC40L3QsDog0J_RgNC40LrQu9GO0YfQtdC90LjRjyDQvNGL0YjQutC4INC4INC80LXQtNCy0LXQtNGPIDIwMTIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "96": {
+    "title": "Шоу Трумана",
+    "genre": "драма",
+    "director": "Питер Уир",
+    "country": "США",
+    "year": "1998",
+    "duration": "103 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=_RpbiOG2z6A\\u0026pp=ygUp0KjQvtGDINCi0YDRg9C80LDQvdCwIDE5OTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "97": {
+    "title": "Лев",
+    "genre": "драма",
+    "director": "Гарт Дэвис",
+    "country": "Австралия",
+    "year": "2016",
+    "duration": "118 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=mapNWW1Djrk\\u0026pp=ygUa0JvQtdCyIDIwMTYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "98": {
+    "title": "Вам и не снилось...",
+    "genre": "драма",
+    "director": "Илья Фрэз",
+    "country": "СССР",
+    "year": "1980",
+    "duration": "86 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=wHBFryRpqbk\\u0026pp=ygU00JLQsNC8INC4INC90LUg0YHQvdC40LvQvtGB0YwuLi4gMTk4MCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "99": {
+    "title": "Запах женщины",
+    "genre": "драма",
+    "director": "Мартин Брест",
+    "country": "США",
+    "year": "1992",
+    "duration": "156 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=zbFkB3B4qwc\\u0026pp=ygUt0JfQsNC_0LDRhSDQttC10L3RidC40L3RiyAxOTkyINGC0YDQtdC50LvQtdGA"
+  },
+  "100": {
+    "title": "Белый Бим Черное ухо",
+    "genre": "драма",
+    "director": "Станислав Ростоцкий",
+    "country": "СССР",
+    "year": "1976",
+    "duration": "183 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=tItkWn6bLlg\\u0026pp=ygU50JHQtdC70YvQuSDQkdC40Lwg0KfQtdGA0L3QvtC1INGD0YXQviAxOTc2INGC0YDQtdC50LvQtdGA"
+  },
+  "101": {
+    "title": "Мадагаскар",
+    "genre": "мультфильм",
+    "director": "Эрик Дарнелл",
+    "country": "США",
+    "year": "2005",
+    "duration": "86 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=yB3keSlmAHE\\u0026pp=ygUo0JzQsNC00LDQs9Cw0YHQutCw0YAgMjAwNSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "102": {
+    "title": "Крестный отец 2",
+    "genre": "драма",
+    "director": "Фрэнсис Форд Коппола",
+    "country": "США",
+    "year": "1974",
+    "duration": "202 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=oQgTfIlAN64\\u0026pp=ygUv0JrRgNC10YHRgtC90YvQuSDQvtGC0LXRhiAyIDE5NzQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "103": {
+    "title": "На войне как на войне",
+    "genre": "военный",
+    "director": "Виктор Трегубович",
+    "country": "СССР",
+    "year": "1968",
+    "duration": "90 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=dxRta_Fmr28\\u0026pp=ygU60J3QsCDQstC-0LnQvdC1INC60LDQuiDQvdCwINCy0L7QudC90LUgMTk2OCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "104": {
+    "title": "Хоббит: Пустошь Смауга",
+    "genre": "Зеландия",
+    "director": "Режиссёр: Питер Джексон",
+    "country": "Новая",
+    "year": "2013",
+    "duration": "161 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=3YuWZg3w-_s\\u0026pp=ygU90KXQvtCx0LHQuNGCOiDQn9GD0YHRgtC-0YjRjCDQodC80LDRg9Cz0LAgMjAxMyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "105": {
+    "title": "Сестрёнка",
+    "genre": "драма",
+    "director": "Александр Галибин",
+    "country": "Россия",
+    "year": "2019",
+    "duration": "94 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=bXry4ozO9r0\\u0026pp=ygUm0KHQtdGB0YLRgNGR0L3QutCwIDIwMTkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "106": {
+    "title": "12 стульев",
+    "genre": "комедия",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1971",
+    "duration": "153 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=_HxyahYOljU\\u0026pp=ygUlMTIg0YHRgtGD0LvRjNC10LIgMTk3MSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "107": {
+    "title": "Гарри Поттер и Принц-полукровка",
+    "genre": "фэнтези",
+    "director": "Дэвид Йейтс",
+    "country": "Великобритания",
+    "year": "2009",
+    "duration": "153 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=U0hMHgNw8hs\\u0026pp=ygVO0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0J_RgNC40L3Rhi3Qv9C-0LvRg9C60YDQvtCy0LrQsCAyMDA5INGC0YDQtdC50LvQtdGA"
+  },
+  "108": {
+    "title": "Мулан",
+    "genre": "мультфильм",
+    "director": "Тони Бэнкрофт",
+    "country": "США",
+    "year": "1998",
+    "duration": "84 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=xRAtLTSGld4\\u0026pp=ygUe0JzRg9C70LDQvSAxOTk4INGC0YDQtdC50LvQtdGA"
+  },
+  "109": {
+    "title": "Звёздные войны: Эпизод 3 — Месть ситхов",
+    "genre": "фантастика",
+    "director": "Джордж Лукас",
+    "country": "США",
+    "year": "2005",
+    "duration": "140 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=Uz_SI5JC5-Q\\u0026pp=ygVb0JfQstGR0LfQtNC90YvQtSDQstC-0LnQvdGLOiDQrdC_0LjQt9C-0LQgMyDigJQg0JzQtdGB0YLRjCDRgdC40YLRhdC-0LIgMjAwNSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "110": {
+    "title": "12 разгневанных мужчин",
+    "genre": "драма",
+    "director": "Сидни Люмет",
+    "country": "США",
+    "year": "1956",
+    "duration": "96 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=AFWsMA51Rtg\\u0026pp=ygU8MTIg0YDQsNC30LPQvdC10LLQsNC90L3Ri9GFINC80YPQttGH0LjQvSAxOTU2INGC0YDQtdC50LvQtdGA"
+  },
+  "111": {
+    "title": "Вторая жизнь Уве",
+    "genre": "драма",
+    "director": "Ханнес Холм",
+    "country": "Швеция",
+    "year": "2015",
+    "duration": "116 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=XYbe4KLetO8\\u0026pp=ygUy0JLRgtC-0YDQsNGPINC20LjQt9C90Ywg0KPQstC1IDIwMTUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "112": {
+    "title": "Невероятный мир глазами Энцо",
+    "genre": "драма",
+    "director": "Саймон Кёртис",
+    "country": "США",
+    "year": "2019",
+    "duration": "109 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=HCGawZU0lv0\\u0026pp=ygVJ0J3QtdCy0LXRgNC-0Y_RgtC90YvQuSDQvNC40YAg0LPQu9Cw0LfQsNC80Lgg0K3QvdGG0L4gMjAxOSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "113": {
+    "title": "Холодное лето пятьдесят третьего...",
+    "genre": "драма",
+    "director": "Александр Прошкин",
+    "country": "СССР",
+    "year": "1987",
+    "duration": "102 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=pgCGGSKPia0\\u0026pp=ygVU0KXQvtC70L7QtNC90L7QtSDQu9C10YLQviDQv9GP0YLRjNC00LXRgdGP0YIg0YLRgNC10YLRjNC10LPQvi4uLiAxOTg3INGC0YDQtdC50LvQtdGA"
+  },
+  "114": {
+    "title": "В августе 44-го",
+    "genre": "боевик",
+    "director": "Михаил Пташук",
+    "country": "Россия",
+    "year": "2001",
+    "duration": "118 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=PfXU5gidcsI\\u0026pp=ygUt0JIg0LDQstCz0YPRgdGC0LUgNDQt0LPQviAyMDAxINGC0YDQtdC50LvQtdGA"
+  },
+  "115": {
+    "title": "Дело храбрых",
+    "genre": "драма",
+    "director": "Джозеф Косински",
+    "country": "США",
+    "year": "2017",
+    "duration": "134 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=kcz41-a0S7E\\u0026pp=ygUr0JTQtdC70L4g0YXRgNCw0LHRgNGL0YUgMjAxNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "116": {
+    "title": "Аладдин",
+    "genre": "мультфильм",
+    "director": "Рон Клементс",
+    "country": "США",
+    "year": "1992",
+    "duration": "90 мин.",
+    "rating": "8.4",
+    "trailer": "https://www.youtube.com/watch?v=I_uZxQ3HyT4\\u0026pp=ygUi0JDQu9Cw0LTQtNC40L0gMTk5MiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "117": {
+    "title": "Мстители: Война бесконечности",
+    "genre": "фантастика",
+    "director": "Энтони Руссо",
+    "country": "США",
+    "year": "2018",
+    "duration": "149 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=6SImf4Srjmg\\u0026pp=ygVL0JzRgdGC0LjRgtC10LvQuDog0JLQvtC50L3QsCDQsdC10YHQutC-0L3QtdGH0L3QvtGB0YLQuCAyMDE4INGC0YDQtdC50LvQtdGA"
+  },
+  "118": {
+    "title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра",
+    "genre": "криминал",
+    "director": "Игорь Масленников",
+    "country": "СССР",
+    "year": "1980",
+    "duration": "65 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=rmVekeMgm7k\\u0026pp=ygWDAdCf0YDQuNC60LvRjtGH0LXQvdC40Y8g0KjQtdGA0LvQvtC60LAg0KXQvtC70LzRgdCwINC4INC00L7QutGC0L7RgNCwINCS0LDRgtGB0L7QvdCwOiDQntGF0L7RgtCwINC90LAg0YLQuNCz0YDQsCAxOTgwINGC0YDQtdC50LvQtdGA"
+  },
+  "119": {
+    "title": "Двухсотлетний человек",
+    "genre": "фантастика",
+    "director": "Крис Коламбус",
+    "country": "Германия",
+    "year": "1999",
+    "duration": "126 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=nCeMrTM0I9o\\u0026pp=ygU90JTQstGD0YXRgdC-0YLQu9C10YLQvdC40Lkg0YfQtdC70L7QstC10LogMTk5OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "120": {
+    "title": "Человек-паук: Через вселенные",
+    "genre": "мультфильм",
+    "director": "Боб Персичетти",
+    "country": "Канада",
+    "year": "2018",
+    "duration": "117 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=uaNqhT7ueTQ\\u0026pp=ygVK0KfQtdC70L7QstC10Lot0L_QsNGD0Lo6INCn0LXRgNC10Lcg0LLRgdC10LvQtdC90L3Ri9C1IDIwMTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "121": {
+    "title": "Брестская крепость",
+    "genre": "военный",
+    "director": "Александр Котт",
+    "country": "Беларусь",
+    "year": "2010",
+    "duration": "131 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=B11CLxzhqPg\\u0026pp=ygU30JHRgNC10YHRgtGB0LrQsNGPINC60YDQtdC_0L7RgdGC0YwgMjAxMCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "122": {
+    "title": "Молчание ягнят",
+    "genre": "триллер",
+    "director": "Джонатан Демме",
+    "country": "США",
+    "year": "1990",
+    "duration": "118 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=9JTNhAOVosk\\u0026pp=ygUv0JzQvtC70YfQsNC90LjQtSDRj9Cz0L3Rj9GCIDE5OTAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "123": {
+    "title": "Знакомьтесь, Джо Блэк",
+    "genre": "мелодрама",
+    "director": "Мартин Брест",
+    "country": "США",
+    "year": "1998",
+    "duration": "178 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=SXqT4lC_Wp4\\u0026pp=ygU70JfQvdCw0LrQvtC80YzRgtC10YHRjCwg0JTQttC-INCR0LvRjdC6IDE5OTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "124": {
+    "title": "Пираты Карибского моря: На краю света",
+    "genre": "приключения",
+    "director": "Гор Вербински",
+    "country": "США",
+    "year": "2007",
+    "duration": "169 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=TV0j8S7JUpA\\u0026pp=ygVY0J_QuNGA0LDRgtGLINCa0LDRgNC40LHRgdC60L7Qs9C-INC80L7RgNGPOiDQndCwINC60YDQsNGOINGB0LLQtdGC0LAgMjAwNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "125": {
+    "title": "Твоё имя",
+    "genre": "аниме",
+    "director": "Макото Синкай",
+    "country": "Япония",
+    "year": "2016",
+    "duration": "110 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=tT7b5wR0IOM\\u0026pp=ygUj0KLQstC-0ZEg0LjQvNGPIDIwMTYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "126": {
+    "title": "Любовь и голуби",
+    "genre": "мелодрама",
+    "director": "Владимир Меньшов",
+    "country": "СССР",
+    "year": "1984",
+    "duration": "107 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=JKb4rUfHJbY\\u0026pp=ygUw0JvRjtCx0L7QstGMINC4INCz0L7Qu9GD0LHQuCAxOTg0INGC0YDQtdC50LvQtdGA"
+  },
+  "127": {
+    "title": "Навсикая из долины ветров",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "1984",
+    "duration": "117 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=el0MsKQqS9c\\u0026pp=ygVD0J3QsNCy0YHQuNC60LDRjyDQuNC3INC00L7Qu9C40L3RiyDQstC10YLRgNC-0LIgMTk4NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "128": {
+    "title": "Покровские ворота",
+    "genre": "мюзикл",
+    "director": "Михаил Козаков",
+    "country": "СССР",
+    "year": "1982",
+    "duration": "140 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=T-EM2avmxtQ\\u0026pp=ygU10J_QvtC60YDQvtCy0YHQutC40LUg0LLQvtGA0L7RgtCwIDE5ODIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "129": {
+    "title": "Душа",
+    "genre": "мультфильм",
+    "director": "Пит Доктер",
+    "country": "США",
+    "year": "2020",
+    "duration": "106 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=I3smeRr8PGM\\u0026pp=ygUc0JTRg9GI0LAgMjAyMCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "130": {
+    "title": "Вверх",
+    "genre": "мультфильм",
+    "director": "Пит Доктер",
+    "country": "США",
+    "year": "2009",
+    "duration": "96 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=NYwpa1nxH84\\u0026pp=ygUe0JLQstC10YDRhSAyMDA5INGC0YDQtdC50LvQtdGA"
+  },
+  "131": {
+    "title": "Война",
+    "genre": "боевик",
+    "director": "Алексей Балабанов",
+    "country": "Россия",
+    "year": "2002",
+    "duration": "120 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=-Q1LQ4vBQJo\\u0026pp=ygUe0JLQvtC50L3QsCAyMDAyINGC0YDQtdC50LvQtdGA"
+  },
+  "132": {
+    "title": "День сурка",
+    "genre": "фэнтези",
+    "director": "Харольд Рэмис",
+    "country": "США",
+    "year": "1993",
+    "duration": "101 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=5Fsr_cJxag0\\u0026pp=ygUn0JTQtdC90Ywg0YHRg9GA0LrQsCAxOTkzINGC0YDQtdC50LvQtdGA"
+  },
+  "133": {
+    "title": "Приключения Паддингтона 2",
+    "genre": "фэнтези",
+    "director": "Пол Кинг",
+    "country": "Великобритания",
+    "year": "2017",
+    "duration": "103 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=2-fIxHN4xjw\\u0026pp=ygVD0J_RgNC40LrQu9GO0YfQtdC90LjRjyDQn9Cw0LTQtNC40L3Qs9GC0L7QvdCwIDIgMjAxNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "134": {
+    "title": "Гордость и предубеждение",
+    "genre": "драма",
+    "director": "Джо Райт",
+    "country": "Великобритания",
+    "year": "2005",
+    "duration": "129 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=kIwUj0X25ho\\u0026pp=ygVC0JPQvtGA0LTQvtGB0YLRjCDQuCDQv9GA0LXQtNGD0LHQtdC20LTQtdC90LjQtSAyMDA1INGC0YDQtdC50LvQtdGA"
+  },
+  "135": {
+    "title": "Храброе сердце",
+    "genre": "история",
+    "director": "Мэл Гибсон",
+    "country": "США",
+    "year": "1995",
+    "duration": "178 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=277chVHPQSA\\u0026pp=ygUv0KXRgNCw0LHRgNC-0LUg0YHQtdGA0LTRhtC1IDE5OTUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "136": {
+    "title": "Игры разума",
+    "genre": "драма",
+    "director": "Рон Ховард",
+    "country": "США",
+    "year": "2001",
+    "duration": "135 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=k6HI8L3YFb8\\u0026pp=ygUp0JjQs9GA0Ysg0YDQsNC30YPQvNCwIDIwMDEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "137": {
+    "title": "Малышка на миллион",
+    "genre": "драма",
+    "director": "Клинт Иствуд",
+    "country": "США",
+    "year": "2004",
+    "duration": "132 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=9SdGoLWNTBU\\u0026pp=ygU20JzQsNC70YvRiNC60LAg0L3QsCDQvNC40LvQu9C40L7QvSAyMDA0INGC0YDQtdC50LvQtdGA"
+  },
+  "138": {
+    "title": "Смех и горе у Бела моря",
+    "genre": "мультфильм",
+    "director": "Леонид Носырев",
+    "country": "СССР",
+    "year": "1988",
+    "duration": "59 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=IXbFzYafO4k\\u0026pp=ygU90KHQvNC10YUg0Lgg0LPQvtGA0LUg0YMg0JHQtdC70LAg0LzQvtGA0Y8gMTk4OCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "139": {
+    "title": "Укрась прощальное утро цветами обещания",
+    "genre": "аниме",
+    "director": "Мари Окада",
+    "country": "Япония",
+    "year": "2018",
+    "duration": "115 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=t7OcXpcRP3g\\u0026pp=ygVe0KPQutGA0LDRgdGMINC_0YDQvtGJ0LDQu9GM0L3QvtC1INGD0YLRgNC-INGG0LLQtdGC0LDQvNC4INC-0LHQtdGJ0LDQvdC40Y8gMjAxOCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "140": {
+    "title": "Семь жизней",
+    "genre": "драма",
+    "director": "Габриэле Муччино",
+    "country": "США",
+    "year": "2008",
+    "duration": "118 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=3sO8hJoKV5A\\u0026pp=ygUp0KHQtdC80Ywg0LbQuNC30L3QtdC5IDIwMDgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "141": {
+    "title": "Хранители снов",
+    "genre": "мультфильм",
+    "director": "Питер Рэмзи",
+    "country": "США",
+    "year": "2012",
+    "duration": "97 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=-sdnT2j50W0\\u0026pp=ygUv0KXRgNCw0L3QuNGC0LXQu9C4INGB0L3QvtCyIDIwMTIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "142": {
+    "title": "Терминал",
+    "genre": "драма",
+    "director": "Стивен Спилберг",
+    "country": "США",
+    "year": "2004",
+    "duration": "124 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=eefGGA6sYlU\\u0026pp=ygUk0KLQtdGA0LzQuNC90LDQuyAyMDA0INGC0YDQtdC50LvQtdGA"
+  },
+  "143": {
+    "title": "Добро пожаловать, или Посторонним вход воспрещен",
+    "genre": "комедия",
+    "director": "Элем Климов",
+    "country": "СССР",
+    "year": "1964",
+    "duration": "71 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=5JqB8TXA3zA\\u0026pp=ygVu0JTQvtCx0YDQviDQv9C-0LbQsNC70L7QstCw0YLRjCwg0LjQu9C4INCf0L7RgdGC0L7RgNC-0L3QvdC40Lwg0LLRhdC-0LQg0LLQvtGB0L_RgNC10YnQtdC9IDE5NjQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "144": {
+    "title": "В погоне за счастьем",
+    "genre": "драма",
+    "director": "Габриэле Муччино",
+    "country": "США",
+    "year": "2006",
+    "duration": "117 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=19NypqjaOLg\\u0026pp=ygU50JIg0L_QvtCz0L7QvdC1INC30LAg0YHRh9Cw0YHRgtGM0LXQvCAyMDA2INGC0YDQtdC50LvQtdGA"
+  },
+  "145": {
+    "title": "Красотка",
+    "genre": "мелодрама",
+    "director": "Гэрри Маршалл",
+    "country": "США",
+    "year": "1990",
+    "duration": "115 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=jO70Gm7Q8MQ\\u0026pp=ygUk0JrRgNCw0YHQvtGC0LrQsCAxOTkwINGC0YDQtdC50LvQtdGA"
+  },
+  "146": {
+    "title": "Анастасия",
+    "genre": "мультфильм",
+    "director": "Дон Блут",
+    "country": "США",
+    "year": "1997",
+    "duration": "94 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=TiDs683MpWQ\\u0026pp=ygUm0JDQvdCw0YHRgtCw0YHQuNGPIDE5OTcg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "147": {
+    "title": "Гарри Поттер и Орден Феникса",
+    "genre": "фэнтези",
+    "director": "Дэвид Йейтс",
+    "country": "Великобритания",
+    "year": "2007",
+    "duration": "138 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=Q3P10wkGDBQ\\u0026pp=ygVI0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0J7RgNC00LXQvSDQpNC10L3QuNC60YHQsCAyMDA3INGC0YDQtdC50LvQtdGA"
+  },
+  "148": {
+    "title": "Не может быть!",
+    "genre": "мелодрама",
+    "director": "Леонид Гайдай",
+    "country": "СССР",
+    "year": "1975",
+    "duration": "92 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=DZHXRy-FTuM\\u0026pp=ygUt0J3QtSDQvNC-0LbQtdGCINCx0YvRgtGMISAxOTc1INGC0YDQtdC50LvQtdGA"
+  },
+  "149": {
+    "title": "Бесславные ублюдки",
+    "genre": "боевик",
+    "director": "Квентин Тарантино",
+    "country": "Германия",
+    "year": "2009",
+    "duration": "153 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=KgjEC2Wxy3Q\\u0026pp=ygU30JHQtdGB0YHQu9Cw0LLQvdGL0LUg0YPQsdC70Y7QtNC60LggMjAwOSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "150": {
+    "title": "Головоломка",
+    "genre": "мультфильм",
+    "director": "Пит Доктер",
+    "country": "США",
+    "year": "2015",
+    "duration": "95 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=XaGjd5paQ4M\\u0026pp=ygUq0JPQvtC70L7QstC-0LvQvtC80LrQsCAyMDE1INGC0YDQtdC50LvQtdGA"
+  },
+  "151": {
+    "title": "Собачья жизнь",
+    "genre": "фэнтези",
+    "director": "Лассе Халльстрём",
+    "country": "США",
+    "year": "2017",
+    "duration": "100 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=vXfrNiW10XE\\u0026pp=ygUt0KHQvtCx0LDRh9GM0Y8g0LbQuNC30L3RjCAyMDE3INGC0YDQtdC50LvQtdGA"
+  },
+  "152": {
+    "title": "Привидение",
+    "genre": "мелодрама",
+    "director": "Джерри Цукер",
+    "country": "США",
+    "year": "1990",
+    "duration": "127 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=VsEKQxGxDhQ\\u0026pp=ygUo0J_RgNC40LLQuNC00LXQvdC40LUgMTk5MCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "153": {
+    "title": "Назад в будущее 3",
+    "genre": "фантастика",
+    "director": "Роберт Земекис",
+    "country": "США",
+    "year": "1990",
+    "duration": "118 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=bcngoQk9Uls\\u0026pp=ygUy0J3QsNC30LDQtCDQsiDQsdGD0LTRg9GJ0LXQtSAzIDE5OTAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "154": {
+    "title": "Рыбка Поньо на утесе",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "2008",
+    "duration": "101 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=nzJDmXcYLfs\\u0026pp=ygU50KDRi9Cx0LrQsCDQn9C-0L3RjNC-INC90LAg0YPRgtC10YHQtSAyMDA4INGC0YDQtdC50LvQtdGA"
+  },
+  "155": {
+    "title": "Гарри Поттер и Дары Смерти: Часть I",
+    "genre": "фэнтези",
+    "director": "Дэвид Йейтс",
+    "country": "Великобритания",
+    "year": "2010",
+    "duration": "146 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=oBTJEwG2NOM\\u0026pp=ygVS0JPQsNGA0YDQuCDQn9C-0YLRgtC10YAg0Lgg0JTQsNGA0Ysg0KHQvNC10YDRgtC4OiDQp9Cw0YHRgtGMIEkgMjAxMCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "156": {
+    "title": "Общество мертвых поэтов",
+    "genre": "драма",
+    "director": "Питер Уир",
+    "country": "США",
+    "year": "1989",
+    "duration": "128 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=oz2t8twmdcY\\u0026pp=ygVA0J7QsdGJ0LXRgdGC0LLQviDQvNC10YDRgtCy0YvRhSDQv9C-0Y3RgtC-0LIgMTk4OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "157": {
+    "title": "Шерлок Холмс и доктор Ватсон: Двадцатый век начинается",
+    "genre": "триллер",
+    "director": "Игорь Масленников",
+    "country": "СССР",
+    "year": "1986",
+    "duration": "150 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=AwD663khj7E\\u0026pp=ygV40KjQtdGA0LvQvtC6INCl0L7Qu9C80YEg0Lgg0LTQvtC60YLQvtGAINCS0LDRgtGB0L7QvTog0JTQstCw0LTRhtCw0YLRi9C5INCy0LXQuiDQvdCw0YfQuNC90LDQtdGC0YHRjyAxOTg2INGC0YDQtdC50LvQtdGA"
+  },
+  "158": {
+    "title": "Хороший, плохой, злой",
+    "genre": "вестерн",
+    "director": "Серджио Леоне",
+    "country": "Италия",
+    "year": "1966",
+    "duration": "178 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=ADvXVas33X0\\u0026pp=ygU60KXQvtGA0L7RiNC40LksINC_0LvQvtGF0L7QuSwg0LfQu9C-0LkgMTk2NiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "159": {
+    "title": "Белое солнце пустыни",
+    "genre": "боевик",
+    "director": "Владимир Мотыль",
+    "country": "СССР",
+    "year": "1969",
+    "duration": "84 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=P4u13z7jlo4\\u0026pp=ygU60JHQtdC70L7QtSDRgdC-0LvQvdGG0LUg0L_Rg9GB0YLRi9C90LggMTk2OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "160": {
+    "title": "Семь",
+    "genre": "триллер",
+    "director": "Дэвид Финчер",
+    "country": "США",
+    "year": "1995",
+    "duration": "127 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=GiFyoro7u78\\u0026pp=ygUc0KHQtdC80YwgMTk5NSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "161": {
+    "title": "Мимино",
+    "genre": "драма",
+    "director": "Георгий Данелия",
+    "country": "СССР",
+    "year": "1977",
+    "duration": "92 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=n5zyvvtFEE4\\u0026pp=ygUg0JzQuNC80LjQvdC-IDE5Nzcg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "162": {
+    "title": "Белорусский вокзал",
+    "genre": "драма",
+    "director": "Андрей Смирнов",
+    "country": "СССР",
+    "year": "1970",
+    "duration": "95 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=eQQTiBtz5jU\\u0026pp=ygU30JHQtdC70L7RgNGD0YHRgdC60LjQuSDQstC-0LrQt9Cw0LsgMTk3MCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "163": {
+    "title": "Аватар",
+    "genre": "фантастика",
+    "director": "Джеймс Кэмерон",
+    "country": "США",
+    "year": "2009",
+    "duration": "162 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=uXC_0wE6k7k\\u0026pp=ygUg0JDQstCw0YLQsNGAIDIwMDkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "164": {
+    "title": "Ford против Ferrari",
+    "genre": "биография",
+    "director": "Джеймс Мэнголд",
+    "country": "США",
+    "year": "2019",
+    "duration": "152 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=xyHCNyRqsSg\\u0026pp=ygUtRm9yZCDQv9GA0L7RgtC40LIgRmVycmFyaSAyMDE5INGC0YDQtdC50LvQtdGA"
+  },
+  "165": {
+    "title": "Игра",
+    "genre": "триллер",
+    "director": "Дэвид Финчер",
+    "country": "США",
+    "year": "1997",
+    "duration": "129 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=s2ANwnDFBd8\\u0026pp=ygUc0JjQs9GA0LAgMTk5NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "166": {
+    "title": "Кин-дза-дза!",
+    "genre": "фантастика",
+    "director": "Георгий Данелия",
+    "country": "СССР",
+    "year": "1986",
+    "duration": "135 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=EYHv8eJrW2Y\\u0026pp=ygUp0JrQuNC9LdC00LfQsC3QtNC30LAhIDE5ODYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "167": {
+    "title": "Красавица и чудовище",
+    "genre": "мультфильм",
+    "director": "Гари Труздейл",
+    "country": "США",
+    "year": "1991",
+    "duration": "84 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=aGKtX52MPL4\\u0026pp=ygU60JrRgNCw0YHQsNCy0LjRhtCwINC4INGH0YPQtNC-0LLQuNGJ0LUgMTk5MSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "168": {
+    "title": "Человек-паук",
+    "genre": "фантастика",
+    "director": "Сэм Рэйми",
+    "country": "США",
+    "year": "2002",
+    "duration": "121 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=yPPrM4Iq6E4\\u0026pp=ygUr0KfQtdC70L7QstC10Lot0L_QsNGD0LogMjAwMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "169": {
+    "title": "Темный рыцарь: Возрождение легенды",
+    "genre": "фантастика",
+    "director": "Кристофер Нолан",
+    "country": "США",
+    "year": "2012",
+    "duration": "165 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=d80JUz7CsnI\\u0026pp=ygVU0KLQtdC80L3Ri9C5INGA0YvRhtCw0YDRjDog0JLQvtC30YDQvtC20LTQtdC90LjQtSDQu9C10LPQtdC90LTRiyAyMDEyINGC0YDQtdC50LvQtdGA"
+  },
+  "170": {
+    "title": "Чудо",
+    "genre": "драма",
+    "director": "Стивен Чбоски",
+    "country": "США",
+    "year": "2017",
+    "duration": "113 мин.",
+    "rating": "8.3",
+    "trailer": "https://www.youtube.com/watch?v=ytog_fORkyc\\u0026pp=ygUc0KfRg9C00L4gMjAxNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "171": {
+    "title": "Железный человек",
+    "genre": "фантастика",
+    "director": "Джон Фавро",
+    "country": "США",
+    "year": "2008",
+    "duration": "121 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=fMKZMI8ByTs\\u0026pp=ygUz0JbQtdC70LXQt9C90YvQuSDRh9C10LvQvtCy0LXQuiAyMDA4INGC0YDQtdC50LvQtdGA"
+  },
+  "172": {
+    "title": "Унесённые ветром",
+    "genre": "мелодрама",
+    "director": "Виктор Флеминг",
+    "country": "США",
+    "year": "1939",
+    "duration": "222 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=hihM44IZdlE\\u0026pp=ygUz0KPQvdC10YHRkdC90L3Ri9C1INCy0LXRgtGA0L7QvCAxOTM5INGC0YDQtdC50LvQtdGA"
+  },
+  "173": {
+    "title": "Карнавальная ночь",
+    "genre": "комедия",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1956",
+    "duration": "78 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=3jg21SZJ8g8\\u0026pp=ygU10JrQsNGA0L3QsNCy0LDQu9GM0L3QsNGPINC90L7Rh9GMIDE5NTYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "174": {
+    "title": "Вечера на хуторе близ Диканьки",
+    "genre": "фэнтези",
+    "director": "Александр Роу",
+    "country": "СССР",
+    "year": "1961",
+    "duration": "66 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=ecn2nmVJn9k\\u0026pp=ygVM0JLQtdGH0LXRgNCwINC90LAg0YXRg9GC0L7RgNC1INCx0LvQuNC3INCU0LjQutCw0L3RjNC60LggMTk2MSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "175": {
+    "title": "Невидимая сторона",
+    "genre": "драма",
+    "director": "Джон Ли Хэнкок",
+    "country": "США",
+    "year": "2009",
+    "duration": "129 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=uCBjDSs42wI\\u0026pp=ygU10J3QtdCy0LjQtNC40LzQsNGPINGB0YLQvtGA0L7QvdCwIDIwMDkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "176": {
+    "title": "Отпуск по обмену",
+    "genre": "мелодрама",
+    "director": "Нэнси Майерс",
+    "country": "США",
+    "year": "2006",
+    "duration": "136 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=8ubDlWSux4w\\u0026pp=ygUy0J7RgtC_0YPRgdC6INC_0L4g0L7QsdC80LXQvdGDIDIwMDYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "177": {
+    "title": "Мачеха",
+    "genre": "драма",
+    "director": "Крис Коламбус",
+    "country": "США",
+    "year": "1998",
+    "duration": "120 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=qsArgSHw1Vs\\u0026pp=ygUg0JzQsNGH0LXRhdCwIDE5OTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "178": {
+    "title": "Шестое чувство",
+    "genre": "детектив",
+    "director": "М. Найт Шьямалан",
+    "country": "США",
+    "year": "1999",
+    "duration": "107 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=NXJ-dp_dM_k\\u0026pp=ygUv0KjQtdGB0YLQvtC1INGH0YPQstGB0YLQstC-IDE5OTkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "179": {
+    "title": "Творение Господне",
+    "genre": "драма",
+    "director": "Джозеф Сарджент",
+    "country": "США",
+    "year": "2004",
+    "duration": "110 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=Fd_w1Qb2QZQ\\u0026pp=ygU10KLQstC-0YDQtdC90LjQtSDQk9C-0YHQv9C-0LTQvdC1IDIwMDQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "180": {
+    "title": "Жестокий романс",
+    "genre": "драма",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1984",
+    "duration": "137 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=4naOrjRiTnc\\u0026pp=ygUx0JbQtdGB0YLQvtC60LjQuSDRgNC-0LzQsNC90YEgMTk4NCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "181": {
+    "title": "Небесный замок Лапута",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "1986",
+    "duration": "125 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=ww0eiQ49V2o\\u0026pp=ygU80J3QtdCx0LXRgdC90YvQuSDQt9Cw0LzQvtC6INCb0LDQv9GD0YLQsCAxOTg2INGC0YDQtdC50LvQtdGA"
+  },
+  "182": {
+    "title": "Омерзительная восьмерка",
+    "genre": "вестерн",
+    "director": "Квентин Тарантино",
+    "country": "США",
+    "year": "2015",
+    "duration": "168 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=x6aFkwiOJwk\\u0026pp=ygVB0J7QvNC10YDQt9C40YLQtdC70YzQvdCw0Y8g0LLQvtGB0YzQvNC10YDQutCwIDIwMTUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "183": {
+    "title": "Человек дождя",
+    "genre": "драма",
+    "director": "Барри Левинсон",
+    "country": "США",
+    "year": "1988",
+    "duration": "133 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=1AnTSk9YzKk\\u0026pp=ygUt0KfQtdC70L7QstC10Log0LTQvtC20LTRjyAxOTg4INGC0YDQtdC50LvQtdGA"
+  },
+  "184": {
+    "title": "Обыкновенное чудо",
+    "genre": "мюзикл",
+    "director": "Марк Захаров",
+    "country": "СССР",
+    "year": "1978",
+    "duration": "137 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=gZiKrWSzNBo\\u0026pp=ygU10J7QsdGL0LrQvdC-0LLQtdC90L3QvtC1INGH0YPQtNC-IDE5Nzgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "185": {
+    "title": "Люди в чёрном",
+    "genre": "фантастика",
+    "director": "Барри Зонненфельд",
+    "country": "США",
+    "year": "1997",
+    "duration": "98 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=Sk8VYmIxZGw\\u0026pp=ygUs0JvRjtC00Lgg0LIg0YfRkdGA0L3QvtC8IDE5OTcg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "186": {
+    "title": "Лекарь: Ученик Авиценны",
+    "genre": "приключения",
+    "director": "Филипп Штёльцль",
+    "country": "Германия",
+    "year": "2013",
+    "duration": "155 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=UhPS77Dx4F4\\u0026pp=ygU_0JvQtdC60LDRgNGMOiDQo9GH0LXQvdC40Log0JDQstC40YbQtdC90L3RiyAyMDEzINGC0YDQtdC50LvQtdGA"
+  },
+  "187": {
+    "title": "Достать ножи",
+    "genre": "детектив",
+    "director": "Райан Джонсон",
+    "country": "США",
+    "year": "2019",
+    "duration": "130 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=8VMvCavnFNw\\u0026pp=ygUr0JTQvtGB0YLQsNGC0Ywg0L3QvtC20LggMjAxOSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "188": {
+    "title": "Балто",
+    "genre": "мультфильм",
+    "director": "Саймон Уэллс",
+    "country": "США",
+    "year": "1995",
+    "duration": "71 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=nVmsn6bkgDg\\u0026pp=ygUe0JHQsNC70YLQviAxOTk1INGC0YDQtdC50LvQtdGA"
+  },
+  "189": {
+    "title": "Самая обаятельная и привлекательная",
+    "genre": "мелодрама",
+    "director": "Геральд Бежанов",
+    "country": "СССР",
+    "year": "1985",
+    "duration": "81 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=v7PbeasXUbM\\u0026pp=ygVX0KHQsNC80LDRjyDQvtCx0LDRj9GC0LXQu9GM0L3QsNGPINC4INC_0YDQuNCy0LvQtdC60LDRgtC10LvRjNC90LDRjyAxOTg1INGC0YDQtdC50LvQtdGA"
+  },
+  "190": {
+    "title": "Формула любви",
+    "genre": "мелодрама",
+    "director": "Марк Захаров",
+    "country": "СССР",
+    "year": "1984",
+    "duration": "90 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=bMtdhA_QtwE\\u0026pp=ygUt0KTQvtGA0LzRg9C70LAg0LvRjtCx0LLQuCAxOTg0INGC0YDQtdC50LvQtdGA"
+  },
+  "191": {
+    "title": "Весна на Заречной улице",
+    "genre": "драма",
+    "director": "Марлен Хуциев",
+    "country": "СССР",
+    "year": "1956",
+    "duration": "90 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=g9ap8_JTQTw\\u0026pp=ygU_0JLQtdGB0L3QsCDQvdCwINCX0LDRgNC10YfQvdC-0Lkg0YPQu9C40YbQtSAxOTU2INGC0YDQtdC50LvQtdGA"
+  },
+  "192": {
+    "title": "Подольские курсанты",
+    "genre": "военный",
+    "director": "Вадим Шмелев",
+    "country": "Россия",
+    "year": "2020",
+    "duration": "136 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=mL59Fy-AWHQ\\u0026pp=ygU50J_QvtC00L7Qu9GM0YHQutC40LUg0LrRg9GA0YHQsNC90YLRiyAyMDIwINGC0YDQtdC50LvQtdGA"
+  },
+  "193": {
+    "title": "Алеша Попович и Тугарин Змей",
+    "genre": "мультфильм",
+    "director": "Константин Бронзит",
+    "country": "Россия",
+    "year": "2004",
+    "duration": "79 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=YIl_lKZgndc\\u0026pp=ygVI0JDQu9C10YjQsCDQn9C-0L_QvtCy0LjRhyDQuCDQotGD0LPQsNGA0LjQvSDQl9C80LXQuSAyMDA0INGC0YDQtdC50LvQtdGA"
+  },
+  "194": {
+    "title": "Скрытые фигуры",
+    "genre": "драма",
+    "director": "Тед Мелфи",
+    "country": "США",
+    "year": "2016",
+    "duration": "127 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=tjYaY7Jqxkw\\u0026pp=ygUv0KHQutGA0YvRgtGL0LUg0YTQuNCz0YPRgNGLIDIwMTYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "195": {
+    "title": "Лис и пёс",
+    "genre": "мультфильм",
+    "director": "Тед Берман",
+    "country": "США",
+    "year": "1981",
+    "duration": "83 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=7sL8ZU3BuQc\\u0026pp=ygUk0JvQuNGBINC4INC_0ZHRgSAxOTgxINGC0YDQtdC50LvQtdGA"
+  },
+  "196": {
+    "title": "Зверопой 2",
+    "genre": "мультфильм",
+    "director": "Гарт Дженнингс",
+    "country": "США",
+    "year": "2021",
+    "duration": "110 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=UIukHag0uGY\\u0026pp=ygUm0JfQstC10YDQvtC_0L7QuSAyIDIwMjEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "197": {
+    "title": "В поисках Немо",
+    "genre": "мультфильм",
+    "director": "Эндрю Стэнтон",
+    "country": "США",
+    "year": "2003",
+    "duration": "101 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=MQLaY2RjqV4\\u0026pp=ygUu0JIg0L_QvtC40YHQutCw0YUg0J3QtdC80L4gMjAwMyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "198": {
+    "title": "Жизнь других",
+    "genre": "триллер",
+    "director": "Флориан Хенкель фон Доннерсмарк",
+    "country": "Германия",
+    "year": "2006",
+    "duration": "137 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=nnboZiWjsh0\\u0026pp=ygUr0JbQuNC30L3RjCDQtNGA0YPQs9C40YUgMjAwNiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "199": {
+    "title": "Ледниковый период",
+    "genre": "мультфильм",
+    "director": "Крис Уэдж",
+    "country": "США",
+    "year": "2002",
+    "duration": "81 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=oBcZ7DZPvIw\\u0026pp=ygU10JvQtdC00L3QuNC60L7QstGL0Lkg0L_QtdGA0LjQvtC0IDIwMDIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "200": {
+    "title": "Свой среди чужих, чужой среди своих",
+    "genre": "боевик",
+    "director": "Никита Михалков",
+    "country": "СССР",
+    "year": "1974",
+    "duration": "93 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=dHUKd99FUv0\\u0026pp=ygVU0KHQstC-0Lkg0YHRgNC10LTQuCDRh9GD0LbQuNGFLCDRh9GD0LbQvtC5INGB0YDQtdC00Lgg0YHQstC-0LjRhSAxOTc0INGC0YDQtdC50LvQtdGA"
+  },
+  "201": {
+    "title": "Таксист",
+    "genre": "история",
+    "director": "Чан Хун",
+    "country": "Корея Южная",
+    "year": "2017",
+    "duration": "137 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=KPk1adyCOl4\\u0026pp=ygUi0KLQsNC60YHQuNGB0YIgMjAxNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "202": {
+    "title": "Приходи на меня посмотреть",
+    "genre": "мелодрама",
+    "director": "Михаил Агранович",
+    "country": "Россия",
+    "year": "2000",
+    "duration": "101 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=SK9sDWpoRtA\\u0026pp=ygVF0J_RgNC40YXQvtC00Lgg0L3QsCDQvNC10L3RjyDQv9C-0YHQvNC-0YLRgNC10YLRjCAyMDAwINGC0YDQtdC50LvQtdGA"
+  },
+  "203": {
+    "title": "Максим Перепелица",
+    "genre": "комедия",
+    "director": "Анатолий Граник",
+    "country": "СССР",
+    "year": "1955",
+    "duration": "87 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=gcWl2UR1Yi0\\u0026pp=ygU10JzQsNC60YHQuNC8INCf0LXRgNC10L_QtdC70LjRhtCwIDE5NTUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "204": {
+    "title": "Счастливое число Слевина",
+    "genre": "триллер",
+    "director": "Пол Макгиган",
+    "country": "США",
+    "year": "2005",
+    "duration": "110 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=2ZcFb-GDHQA\\u0026pp=ygVC0KHRh9Cw0YHRgtC70LjQstC-0LUg0YfQuNGB0LvQviDQodC70LXQstC40L3QsCAyMDA1INGC0YDQtdC50LvQtdGA"
+  },
+  "205": {
+    "title": "Король говорит!",
+    "genre": "драма",
+    "director": "Том Хупер",
+    "country": "Великобритания",
+    "year": "2010",
+    "duration": "118 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=dPjPg_yL5wU\\u0026pp=ygUw0JrQvtGA0L7Qu9GMINCz0L7QstC-0YDQuNGCISAyMDEwINGC0YDQtdC50LvQtdGA"
+  },
+  "206": {
+    "title": "Доктор Лиза",
+    "genre": "драма",
+    "director": "Оксана Карас",
+    "country": "Россия",
+    "year": "2020",
+    "duration": "120 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=dCD30M19Tcw\\u0026pp=ygUp0JTQvtC60YLQvtGAINCb0LjQt9CwIDIwMjAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "207": {
+    "title": "Человек с бульвара Капуцинов",
+    "genre": "вестерн",
+    "director": "Алла Сурикова",
+    "country": "СССР",
+    "year": "1987",
+    "duration": "98 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=4JZzsIncaVo\\u0026pp=ygVJ0KfQtdC70L7QstC10Log0YEg0LHRg9C70YzQstCw0YDQsCDQmtCw0L_Rg9GG0LjQvdC-0LIgMTk4NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "208": {
+    "title": "Лило и Стич",
+    "genre": "мультфильм",
+    "director": "Дин ДеБлуа",
+    "country": "США",
+    "year": "2002",
+    "duration": "85 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=QpVvxrq7-nY\\u0026pp=ygUo0JvQuNC70L4g0Lgg0KHRgtC40YcgMjAwMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "209": {
+    "title": "101 далматинец",
+    "genre": "мультфильм",
+    "director": "Клайд Джероними",
+    "country": "США",
+    "year": "1961",
+    "duration": "79 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=uFVCPmnBk5M\\u0026pp=ygUsMTAxINC00LDQu9C80LDRgtC40L3QtdGGIDE5NjEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "210": {
+    "title": "Счастье в конверте",
+    "genre": "семейный",
+    "director": "Светлана Суханова",
+    "country": "Россия",
+    "year": "2019",
+    "duration": "103 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=Kl9kRY9EcVU\\u0026pp=ygU20KHRh9Cw0YHRgtGM0LUg0LIg0LrQvtC90LLQtdGA0YLQtSAyMDE5INGC0YDQtdC50LvQtdGA"
+  },
+  "211": {
+    "title": "Леди и бродяга",
+    "genre": "мультфильм",
+    "director": "Клайд Джероними",
+    "country": "США",
+    "year": "1955",
+    "duration": "76 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=HZaKhX-KgkI\\u0026pp=ygUu0JvQtdC00Lgg0Lgg0LHRgNC-0LTRj9Cz0LAgMTk1NSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "212": {
+    "title": "Изгой",
+    "genre": "драма",
+    "director": "Роберт Земекис",
+    "country": "США",
+    "year": "2000",
+    "duration": "143 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=HdamR86OfgI\\u0026pp=ygUe0JjQt9Cz0L7QuSAyMDAwINGC0YDQtdC50LvQtdGA"
+  },
+  "213": {
+    "title": "Мальчик в полосатой пижаме",
+    "genre": "драма",
+    "director": "Марк Херман",
+    "country": "Великобритания",
+    "year": "2008",
+    "duration": "94 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=w_o1RQKbl6Q\\u0026pp=ygVF0JzQsNC70YzRh9C40Log0LIg0L_QvtC70L7RgdCw0YLQvtC5INC_0LjQttCw0LzQtSAyMDA4INGC0YDQtdC50LvQtdGA"
+  },
+  "214": {
+    "title": "Ученик чудовища",
+    "genre": "аниме",
+    "director": "Мамору Хосода",
+    "country": "Япония",
+    "year": "2015",
+    "duration": "119 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=SvdlrDE2iNs\\u0026pp=ygUx0KPRh9C10L3QuNC6INGH0YPQtNC-0LLQuNGJ0LAgMjAxNSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "215": {
+    "title": "По семейным обстоятельствам",
+    "genre": "драма",
+    "director": "Алексей Коренев",
+    "country": "СССР",
+    "year": "1978",
+    "duration": "128 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=HPljUKPFHyU\\u0026pp=ygVI0J_QviDRgdC10LzQtdC50L3Ri9C8INC-0LHRgdGC0L7Rj9GC0LXQu9GM0YHRgtCy0LDQvCAxOTc4INGC0YDQtdC50LvQtdGA"
+  },
+  "216": {
+    "title": "Доктор",
+    "genre": "драма",
+    "director": "Артём Темников",
+    "country": "Россия",
+    "year": "2022",
+    "duration": "120 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=t1FzS03r7eQ\\u0026pp=ygUg0JTQvtC60YLQvtGAIDIwMjIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "217": {
+    "title": "Восточный ветер",
+    "genre": "приключения",
+    "director": "Катя фон Гарнье",
+    "country": "Германия",
+    "year": "2013",
+    "duration": "106 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=KDEcbzVk190\\u0026pp=ygUx0JLQvtGB0YLQvtGH0L3Ri9C5INCy0LXRgtC10YAgMjAxMyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "218": {
+    "title": "Пролетая над гнездом кукушки",
+    "genre": "драма",
+    "director": "Милош Форман",
+    "country": "США",
+    "year": "1975",
+    "duration": "133 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=uxI8axRmRg0\\u0026pp=ygVJ0J_RgNC-0LvQtdGC0LDRjyDQvdCw0LQg0LPQvdC10LfQtNC-0Lwg0LrRg9C60YPRiNC60LggMTk3NSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "219": {
+    "title": "Загадочная история Бенджамина Баттона",
+    "genre": "драма",
+    "director": "Дэвид Финчер",
+    "country": "США",
+    "year": "2008",
+    "duration": "166 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=HOsg9c6sr-Q\\u0026pp=ygVb0JfQsNCz0LDQtNC-0YfQvdCw0Y8g0LjRgdGC0L7RgNC40Y8g0JHQtdC90LTQttCw0LzQuNC90LAg0JHQsNGC0YLQvtC90LAgMjAwOCDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "220": {
+    "title": "Амели",
+    "genre": "мелодрама",
+    "director": "Жан-Пьер Жёне",
+    "country": "Франция",
+    "year": "2001",
+    "duration": "122 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=IzmKcURzeNM\\u0026pp=ygUe0JDQvNC10LvQuCAyMDAxINGC0YDQtdC50LvQtdGA"
+  },
+  "221": {
+    "title": "Маугли дикой планеты",
+    "genre": "мультфильм",
+    "director": "Эрик Тости",
+    "country": "Франция",
+    "year": "2019",
+    "duration": "90 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=JMd61BquByY\\u0026pp=ygU60JzQsNGD0LPQu9C4INC00LjQutC-0Lkg0L_Qu9Cw0L3QtdGC0YsgMjAxOSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "222": {
+    "title": "Русалочка",
+    "genre": "мультфильм",
+    "director": "Рон Клементс",
+    "country": "США",
+    "year": "1989",
+    "duration": "83 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=OkdhkfN5P5k\\u0026pp=ygUm0KDRg9GB0LDQu9C-0YfQutCwIDE5ODkg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "223": {
+    "title": "Крепкий орешек",
+    "genre": "боевик",
+    "director": "Джон Мактирнан",
+    "country": "США",
+    "year": "1988",
+    "duration": "133 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=lnsqSqZvZUw\\u0026pp=ygUv0JrRgNC10L_QutC40Lkg0L7RgNC10YjQtdC6IDE5ODgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "224": {
+    "title": "Вокзал для двоих",
+    "genre": "драма",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1982",
+    "duration": "141 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=lfL7YxGUDik\\u0026pp=ygUy0JLQvtC60LfQsNC7INC00LvRjyDQtNCy0L7QuNGFIDE5ODIg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "225": {
+    "title": "Кошмар перед Рождеством",
+    "genre": "мультфильм",
+    "director": "Генри Селик",
+    "country": "США",
+    "year": "1993",
+    "duration": "76 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=0styVB5CdLY\\u0026pp=ygVA0JrQvtGI0LzQsNGAINC_0LXRgNC10LQg0KDQvtC20LTQtdGB0YLQstC-0LwgMTk5MyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "226": {
+    "title": "В джазе только девушки",
+    "genre": "мелодрама",
+    "director": "Билли Уайлдер",
+    "country": "США",
+    "year": "1959",
+    "duration": "119 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=k94v8I9uPGQ\\u0026pp=ygU90JIg0LTQttCw0LfQtSDRgtC-0LvRjNC60L4g0LTQtdCy0YPRiNC60LggMTk1OSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "227": {
+    "title": "Спирит: Душа прерий",
+    "genre": "мультфильм",
+    "director": "Келли Эсбёри",
+    "country": "США",
+    "year": "2002",
+    "duration": "83 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=Rs8IGLKjaDI\\u0026pp=ygU30KHQv9C40YDQuNGCOiDQlNGD0YjQsCDQv9GA0LXRgNC40LkgMjAwMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "228": {
+    "title": "Ветер крепчает",
+    "genre": "аниме",
+    "director": "Хаяо Миядзаки",
+    "country": "Япония",
+    "year": "2013",
+    "duration": "126 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=u2J7EvnqFH0\\u0026pp=ygUv0JLQtdGC0LXRgCDQutGA0LXQv9GH0LDQtdGCIDIwMTMg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "229": {
+    "title": "Ла-Ла Ленд",
+    "genre": "мюзикл",
+    "director": "Дэмьен Шазелл",
+    "country": "США",
+    "year": "2016",
+    "duration": "128 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=lneNCBIXD4I\\u0026pp=ygUm0JvQsC3Qm9CwINCb0LXQvdC0IDIwMTYg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "230": {
+    "title": "О чём говорят мужчины",
+    "genre": "комедия",
+    "director": "Дмитрий Дьяченко",
+    "country": "Россия",
+    "year": "2010",
+    "duration": "93 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=LUMEiL4KsfY\\u0026pp=ygU70J4g0YfRkdC8INCz0L7QstC-0YDRj9GCINC80YPQttGH0LjQvdGLIDIwMTAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "231": {
+    "title": "Монстры на каникулах",
+    "genre": "мультфильм",
+    "director": "Генндий Тартаковский",
+    "country": "США",
+    "year": "2012",
+    "duration": "91 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=J7BdEp4D1_Y\\u0026pp=ygU60JzQvtC90YHRgtGA0Ysg0L3QsCDQutCw0L3QuNC60YPQu9Cw0YUgMjAxMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "232": {
+    "title": "Расправь крылья",
+    "genre": "драма",
+    "director": "Николя Ванье",
+    "country": "Франция",
+    "year": "2019",
+    "duration": "113 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=RNkQNpwtTu4\\u0026pp=ygUx0KDQsNGB0L_RgNCw0LLRjCDQutGA0YvQu9GM0Y8gMjAxOSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "233": {
+    "title": "Джуманджи",
+    "genre": "фэнтези",
+    "director": "Джо Джонстон",
+    "country": "США",
+    "year": "1995",
+    "duration": "104 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=LwuELqzMg6E\\u0026pp=ygUm0JTQttGD0LzQsNC90LTQttC4IDE5OTUg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "234": {
+    "title": "Профессионал",
+    "genre": "боевик",
+    "director": "Жорж Лотнер",
+    "country": "Франция",
+    "year": "1981",
+    "duration": "108 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=0jwkiqrHZQo\\u0026pp=ygUs0J_RgNC-0YTQtdGB0YHQuNC-0L3QsNC7IDE5ODEg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "235": {
+    "title": "Доспехи Бога 2: Операция Кондор",
+    "genre": "боевик",
+    "director": "Джеки Чан",
+    "country": "Гонконг",
+    "year": "1991",
+    "duration": "106 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=PziPlE9b7xY\\u0026pp=ygVM0JTQvtGB0L_QtdGF0Lgg0JHQvtCz0LAgMjog0J7Qv9C10YDQsNGG0LjRjyDQmtC-0L3QtNC-0YAgMTk5MSDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "236": {
+    "title": "Звёздные войны: Эпизод 6 — Возвращение Джедая",
+    "genre": "фантастика",
+    "director": "Ричард Маркуанд",
+    "country": "США",
+    "year": "1983",
+    "duration": "131 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=juH_QsXNbEs\\u0026pp=ygVn0JfQstGR0LfQtNC90YvQtSDQstC-0LnQvdGLOiDQrdC_0LjQt9C-0LQgNiDigJQg0JLQvtC30LLRgNCw0YnQtdC90LjQtSDQlNC20LXQtNCw0Y8gMTk4MyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "237": {
+    "title": "Дневник памяти",
+    "genre": "драма",
+    "director": "Ник Кассаветис",
+    "country": "США",
+    "year": "2004",
+    "duration": "124 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=U-eyo1mzi0I\\u0026pp=ygUv0JTQvdC10LLQvdC40Log0L_QsNC80Y_RgtC4IDIwMDQg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "238": {
+    "title": "Догвилль",
+    "genre": "триллер",
+    "director": "Ларс фон Триер",
+    "country": "Дания",
+    "year": "2003",
+    "duration": "178 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=CvoYTklRqMs\\u0026pp=ygUk0JTQvtCz0LLQuNC70LvRjCAyMDAzINGC0YDQtdC50LvQtdGA"
+  },
+  "239": {
+    "title": "Стражи Галактики. Часть 3",
+    "genre": "фантастика",
+    "director": "Джеймс Ганн",
+    "country": "США",
+    "year": "2023",
+    "duration": "150 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=JcEKRP7h5G8\\u0026pp=ygVB0KHRgtGA0LDQttC4INCT0LDQu9Cw0LrRgtC40LrQuC4g0KfQsNGB0YLRjCAzIDIwMjMg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "240": {
+    "title": "Легенда №17",
+    "genre": "биография",
+    "director": "Николай Лебедев",
+    "country": "Россия",
+    "year": "2012",
+    "duration": "134 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=BRWyTgdWKZY\\u0026pp=ygUo0JvQtdCz0LXQvdC00LAg4oSWMTcgMjAxMiDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "241": {
+    "title": "Собака на сене",
+    "genre": "мюзикл",
+    "director": "Ян Фрид",
+    "country": "СССР",
+    "year": "1977",
+    "duration": "138 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=ViJlj7JfKDk\\u0026pp=ygUu0KHQvtCx0LDQutCwINC90LAg0YHQtdC90LUgMTk3NyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "242": {
+    "title": "Гадкий я",
+    "genre": "мультфильм",
+    "director": "Пьер Коффан",
+    "country": "США",
+    "year": "2010",
+    "duration": "95 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=59FVymmqDhA\\u0026pp=ygUj0JPQsNC00LrQuNC5INGPIDIwMTAg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "243": {
+    "title": "День выборов",
+    "genre": "комедия",
+    "director": "Олег Фомин",
+    "country": "Россия",
+    "year": "2007",
+    "duration": "125 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=6hi0etcrqO8\\u0026pp=ygUr0JTQtdC90Ywg0LLRi9Cx0L7RgNC-0LIgMjAwNyDRgtGA0LXQudC70LXRgA%3D%3D"
+  },
+  "244": {
+    "title": "Берегись автомобиля",
+    "genre": "криминал",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1966",
+    "duration": "94 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=WoJCJ0d1yQ4\\u0026pp=ygU50JHQtdGA0LXQs9C40YHRjCDQsNCy0YLQvtC80L7QsdC40LvRjyAxOTY2INGC0YDQtdC50LvQtdGA"
+  },
+  "245": {
+    "title": "Коты-аристократы",
+    "genre": "мультфильм",
+    "director": "Вольфганг Райтерман",
+    "country": "США",
+    "year": "1970",
+    "duration": "78 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=8BB7obx3Gts\\u0026pp=ygUz0JrQvtGC0Yst0LDRgNC40YHRgtC-0LrRgNCw0YLRiyAxOTcwINGC0YDQtdC50LvQtdGA"
+  },
+  "246": {
+    "title": "Спасти рядового Райана",
+    "genre": "военный",
+    "director": "Стивен Спилберг",
+    "country": "США",
+    "year": "1998",
+    "duration": "169 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=cqEvTIK6Too\\u0026pp=ygU-0KHQv9Cw0YHRgtC4INGA0Y_QtNC-0LLQvtCz0L4g0KDQsNC50LDQvdCwIDE5OTgg0YLRgNC10LnQu9C10YA%3D"
+  },
+  "247": {
+    "title": "Невероятные приключения итальянцев в России",
+    "genre": "комедия",
+    "director": "Эльдар Рязанов",
+    "country": "СССР",
+    "year": "1973",
+    "duration": "104 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=0B3nK-k0KzQ\\u0026pp=ygVm0J3QtdCy0LXRgNC-0Y_RgtC90YvQtSDQv9GA0LjQutC70Y7Rh9C10L3QuNGPINC40YLQsNC70YzRj9C90YbQtdCyINCyINCg0L7RgdGB0LjQuCAxOTczINGC0YDQtdC50LvQtdGA"
+  },
+  "248": {
+    "title": "Стражи Галактики",
+    "genre": "фантастика",
+    "director": "Джеймс Ганн",
+    "country": "США",
+    "year": "2014",
+    "duration": "121 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=p7VRUK7ctmU\\u0026pp=ygUz0KHRgtGA0LDQttC4INCT0LDQu9Cw0LrRgtC40LrQuCAyMDE0INGC0YDQtdC50LvQtdGA"
+  },
+  "249": {
+    "title": "Дурак",
+    "genre": "драма",
+    "director": "Юрий Быков",
+    "country": "Россия",
+    "year": "2014",
+    "duration": "116 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=tVXB-zQQA74\\u0026pp=ygUe0JTRg9GA0LDQuiAyMDE0INGC0YDQtdC50LvQtdGA"
+  },
+  "250": {
+    "title": "Звёздные войны: Эпизод 5 — Империя наносит ответный удар",
+    "genre": "фантастика",
+    "director": "Ирвин Кершнер",
+    "country": "США",
+    "year": "1980",
+    "duration": "124 мин.",
+    "rating": "8.2",
+    "trailer": "https://www.youtube.com/watch?v=TzuwexVHgow\\u0026pp=ygV70JfQstGR0LfQtNC90YvQtSDQstC-0LnQvdGLOiDQrdC_0LjQt9C-0LQgNSDigJQg0JjQvNC_0LXRgNC40Y8g0L3QsNC90L7RgdC40YIg0L7RgtCy0LXRgtC90YvQuSDRg9C00LDRgCAxOTgwINGC0YDQtdC50LvQtdGA"
+  }
+}
