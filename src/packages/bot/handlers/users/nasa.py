@@ -6,7 +6,7 @@ from aiogram import types
 from aiogram.dispatcher import FSMContext
 
 from src.packages.bot.keyboards import nasa_data_keyboard, nasa_start_keyboard, hello_keyboard
-from src.packages.bot.loader import bot, dispatcher, load_json, template_json, nasa_api_key
+from src.packages.bot.loader import bot, dispatcher, load_text_messages, template_json, nasa_api_key
 from src.packages.bot.states import NASA
 
 
@@ -21,20 +21,20 @@ async def random_data(start='2000-01-01'):
 @dispatcher.callback_query_handler(text="NASA")
 async def nasa_start(call: types.CallbackQuery, state: FSMContext):
     text_nasa_start = template_json(
-        load_json["nasa"]["nasa_start"] + load_json["nasa"]["label"]).render()
+        load_text_messages["nasa"]["nasa_start"] + load_text_messages["nasa"]["label"]).render()
     await NASA.query.set()
     await call.message.answer(text_nasa_start, reply_markup=nasa_start_keyboard)
 
 
-@dispatcher.message_handler(state=NASA.query)
 @dispatcher.callback_query_handler(lambda x: x.data != "complete", state=NASA.query)
 async def nasa_data(call: types.CallbackQuery | types.Message, state: FSMContext):
     nasa_data_except_answer = template_json(
-        load_json["nasa"]["nasa_data"]["nasa_data_except_answer"] + load_json["nasa"]["label"]).render()
+        load_text_messages["nasa"]["nasa_data"]["nasa_data_except_answer"] + load_text_messages["nasa"][
+            "label"]).render()
     nasa_data_except_query = template_json(
-        load_json["nasa"]["nasa_data"]["nasa_data_except_query"] + load_json["label_MPA"]).render()
-    text_label = template_json(load_json["nasa"]["label"]).render()
-    chat_id = call.message.chat.id if isinstance(call, types.CallbackQuery) else call.chat.id
+        load_text_messages["nasa"]["nasa_data"]["nasa_data_except_query"] + load_text_messages["label_MPA"]).render()
+    text_label = template_json(load_text_messages["nasa"]["label"]).render()
+    chat_id = call.message.chat.id
     try:
         async with aiohttp.ClientSession() as session:
             url = 'https://api.nasa.gov/planetary/apod'
@@ -48,7 +48,6 @@ async def nasa_data(call: types.CallbackQuery | types.Message, state: FSMContext
                     photo = get_data["hdurl"]
                 else:
                     photo = get_data["url"]
-                    print("url")
         try:
             await bot.send_photo(chat_id=chat_id, photo=photo, caption=text + text_label,
                                  reply_markup=nasa_data_keyboard)
@@ -59,8 +58,11 @@ async def nasa_data(call: types.CallbackQuery | types.Message, state: FSMContext
         await bot.send_message(chat_id=chat_id, text=nasa_data_except_query, reply_markup=hello_keyboard)
 
 
+@dispatcher.message_handler(state=NASA.query)
 @dispatcher.callback_query_handler(text="complete", state=NASA.query)
 async def nasa_complete(call: types.CallbackQuery, state: FSMContext):
-    text_nasa_complete = template_json(load_json["nasa"]["nasa_complete"] + load_json["label_MPA"]).render()
+    chat_id = call.message.chat.id if isinstance(call, types.CallbackQuery) else call.chat.id
+    text_nasa_complete = template_json(
+        load_text_messages["nasa"]["nasa_complete"] + load_text_messages["label_MPA"]).render()
     await state.finish()
-    await call.message.answer(text_nasa_complete, reply_markup=hello_keyboard)
+    await bot.send_message(chat_id=chat_id, text=text_nasa_complete, reply_markup=hello_keyboard)

@@ -10,9 +10,9 @@ class LoadFile:
     path = PathStorage().get_path_to_data()
 
     @classmethod
-    def load_text_messages(cls):
+    def load_json(cls, name_file):
         try:
-            with open(cls.path / "text_messages.json", encoding="utf-8") as json_file:
+            with open(cls.path / name_file, encoding="utf-8") as json_file:
                 data = json.load(json_file)
             return data
         except FileNotFoundError as exception:
