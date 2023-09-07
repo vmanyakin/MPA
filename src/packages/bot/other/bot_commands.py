@@ -1,3 +1,7 @@
+"""
+The help menu in the bot
+"""
+
 from aiogram.types import BotCommand
 
 from src.packages.bot.loader import bot

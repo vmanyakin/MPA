@@ -1,14 +1,25 @@
+"""
+Setting up commands for enter menu
+"""
+
+from random import choice
+
 from aiogram import types
 from aiogram.dispatcher.filters.builtin import CommandStart
-from random import choice
+
 from src.packages.bot.keyboards import hello_keyboard
 from src.packages.bot.loader import bot, dispatcher, load_text_messages, template_json
+from src.packages.database.postgresql import UsersTable
 
 
 @dispatcher.message_handler(CommandStart())
 async def hello(message: types.Message):
+    await UsersTable.add(message.from_user.id, message.chat.id, message.from_user.first_name,
+                         message.from_user.last_name, message.from_user.username)
+
     first_name = str(message.from_user.first_name)
-    text_hello = template_json(load_text_messages["enter_menu"]["hello"] + load_text_messages["label_MPA"]).render(first_name=first_name)
+    text_hello = template_json(load_text_messages["enter_menu"]["hello"] + load_text_messages["label_MPA"]).render(
+        first_name=first_name)
     await message.answer(text_hello, reply_markup=hello_keyboard)
 
 

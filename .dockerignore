@@ -1,0 +1,17 @@
+.idea
+.venv
+.env
+.env.dist
+.git
+.gitignore
+__pycache__
+*.pyc
+docker-compose.yaml
+Dockerfile
+*.md
+
+
+
+
+
+
