@@ -1,13 +1,20 @@
+"""
+Setting up commands for tech
+"""
+
 from aiogram import types
 from aiogram.dispatcher import FSMContext
 
 from src.packages.bot.keyboards import tech_start_keyboard, tech_menu_keyboard, hello_keyboard
 from src.packages.bot.loader import dispatcher, load_text_messages, template_json
 from src.packages.bot.states import Tech
+from src.packages.database.mongodb import UsersCollection
 
 
 @dispatcher.callback_query_handler(text="Тех")
 async def tech_start(call: types.CallbackQuery):
+    await UsersCollection.add(call.from_user.id, call.message.chat.id, call.from_user.first_name,
+                              call.from_user.last_name, call.from_user.username, call.data)
     text_tech_start = template_json(
         load_text_messages["tech"]["tech_start"] + load_text_messages["tech"]["label"]).render()
     await call.message.answer(text_tech_start, reply_markup=tech_start_keyboard)

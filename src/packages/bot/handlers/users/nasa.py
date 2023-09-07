@@ -1,3 +1,7 @@
+"""
+Setting up commands for nasa
+"""
+
 import datetime
 import random
 
@@ -8,6 +12,7 @@ from aiogram.dispatcher import FSMContext
 from src.packages.bot.keyboards import nasa_data_keyboard, nasa_start_keyboard, hello_keyboard
 from src.packages.bot.loader import bot, dispatcher, load_text_messages, template_json, nasa_api_key
 from src.packages.bot.states import NASA
+from src.packages.database.mongodb import UsersCollection
 
 
 async def random_data(start='2000-01-01'):
@@ -20,6 +25,8 @@ async def random_data(start='2000-01-01'):
 
 @dispatcher.callback_query_handler(text="NASA")
 async def nasa_start(call: types.CallbackQuery, state: FSMContext):
+    await UsersCollection.add(call.from_user.id, call.message.chat.id, call.from_user.first_name,
+                              call.from_user.last_name, call.from_user.username, call.data)
     text_nasa_start = template_json(
         load_text_messages["nasa"]["nasa_start"] + load_text_messages["nasa"]["label"]).render()
     await NASA.query.set()

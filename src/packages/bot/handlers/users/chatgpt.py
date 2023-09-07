@@ -1,3 +1,6 @@
+"""
+Setting up commands for chatgpt
+"""
 import openai
 from aiogram import types
 from aiogram.dispatcher import FSMContext
@@ -5,10 +8,13 @@ from aiogram.dispatcher import FSMContext
 from src.packages.bot.keyboards import chat_dialog_keyboard, hello_keyboard, chat_complete_keyboard
 from src.packages.bot.loader import bot, dispatcher, load_text_messages, template_json
 from src.packages.bot.states import ChatGPT
+from src.packages.database.mongodb import UsersCollection
 
 
 @dispatcher.callback_query_handler(text="ChatGPT")
 async def chat_start(call: types.CallbackQuery, state: FSMContext):
+    await UsersCollection.add(call.from_user.id, call.message.chat.id, call.from_user.first_name,
+                              call.from_user.last_name, call.from_user.username, call.data)
     text_chat_start = template_json(
         load_text_messages["chat_gpt"]["chat_start"] + load_text_messages["chat_gpt"]["label"]).render()
     async with state.proxy() as data:

@@ -23,6 +23,10 @@ class Data:
 
 
 class FindContent(Data):
+    """
+    Site parser 'https://www.kinopoisk.ru/'
+    url, headers, cookies take from the site
+    """
 
     def __init__(self, url, headers, cookies):
         self.url = url
@@ -119,6 +123,9 @@ class FindContent(Data):
 
 
 class FindJokes(Data):
+    """
+    Site parser "https://ru-fun.ru/hits" and "https://anekdotbar.ru/top-100.html"
+    """
 
     def __init__(self, url):
         self.url = url
@@ -154,11 +161,11 @@ class FindJokes(Data):
 
 if __name__ == "__main__":
     headers = {
-        "Content-Type": "text/plain;charset=UTF-8",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+        "Content-Type": "",
+        "User-Agent": ""
     }
     cookies = {
-        "Cookie": "gdpr=0; _ym_uid=1693397744618242574; yuidss=5636595561693397741; yp=1693484144.yu.2672828931693397743; ymex=1695989744.oyu.2672828931693397743; _ym_visorc=b; _yasc=mBhZzAvoSETMGRjtUn7imyRkq5Noryxfoi0bz9sSmXuAnqWiO+UGF7zuiaFJ2TbihotpBQ==; _ym_isad=2; spravka=dD0xNjkzMzk3NzgyO2k9MTg4LjIzMi4xMzEuMTM4O0Q9NEVEMDU0Q0M0NEVBNjc0OTIzQjAxQjM0MEM1NzdGNjEzMDIzQkIyNzlFMTY0NDA5QjBFMzg0N0FGMTMwNjYyMzNCQkRBQzU4N0YzODE2NDA0NjgzOENFNzkwRDY3MTVBQUE4MzJCMDYyQjRFQzIwN0I2ODYxMjU0NzJGM0Q2MkU4Q0JFNUZCQzRBNEE3NjcyQjAxQjdEOEYyRjg3NDhCMzt1PTE2OTMzOTc3ODI1NjgwMjc1MTI7aD1kYzU4MjM2ZWQzOTQwYjUwODQ5NzJhZTE5N2IyMzE3MQ==; _csrf=6kqW4nipl34gC0oRLxQd_nVE; disable_server_sso_redirect=1; ya_sess_id=noauth:1693397782; sessar=1.1181.CiC8stbc38Fuc8PjDJ7dTnlLSRcJeqfEUkmxOZwm44RFig.6VT8O815Fvd_JTQAyZwe0l5FK6ILzM2puXGBbI_fHZE; yandex_login=; ys=c_chck.2610768447; i=KFaRBv5rzpeH2MH/gMR7CuQJJMTpmh9eeHqFkKllDp2UH0M/hQoYLurFlHrCyJdo0Yj1GAziX9DOOlfO6Pd/nKSEUEM=; yandexuid=5636595561693397741; mda2_beacon=1693397782874; sso_status=sso.passport.yandex.ru:synchronized; _ym_d=1693397784; desktop_session_key=e229be8fae6594b62d34598ed267b1fe7f44d93fbb112861256ab8b16c8dcd357063e8b2c6a5be9d3c6b15e544527d23529d056944d211bea3a2dd3b545cf97bd60f61b3a73168ddde612c5aec6603a4299fa9a0e13de3ad8079bc8c56d6bdd1; desktop_session_key.sig=-QGszcKxsENUo-MV3IjBybp5l2I; cycada=lESkJXjCVtZiwCz5OEqFfocmOSIeFYvrv0UOyaXI0/M="
+        "Cookie": ""
     }
     film = True
     anecdote = False

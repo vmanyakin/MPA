@@ -1,3 +1,7 @@
+"""
+Setting up commands for salutespeech
+"""
+
 import asyncio
 import io
 import urllib.parse
@@ -9,6 +13,7 @@ from pydub import AudioSegment
 
 from src.packages.bot.keyboards import hello_keyboard, salutespeech_keyboard
 from src.packages.bot.loader import dispatcher, load_text_messages, template_json, salutespeech_api_key
+from src.packages.database.mongodb import UsersCollection
 
 
 def blocking_io(oga_format):
@@ -18,6 +23,8 @@ def blocking_io(oga_format):
 
 @dispatcher.callback_query_handler(text="SaluteSpeech")
 async def salutespeech_start(call: types.CallbackQuery):
+    await UsersCollection.add(call.from_user.id, call.message.chat.id, call.from_user.first_name,
+                              call.from_user.last_name, call.from_user.username, call.data)
     text_salutespeech_start = template_json(
         load_text_messages["salutespeech"]["salutespeech_start"] + load_text_messages["salutespeech"]["label"]).render()
     await call.message.answer(text_salutespeech_start)
