@@ -4,8 +4,6 @@
 
 ## О боте
 
----
-
 MPA or My Personal Assistant или Мой Личный Помощник - это телеграм бот, который предоставляет сервисы для твоего досуга!
 
 Что может MPA?
@@ -33,7 +31,6 @@ MPA or My Personal Assistant или Мой Личный Помощник - эт�
 
 ## Как запустить?
 
----
 1. Получи доступ к API:
    - 🎮[Telegram Bot API](https://core.telegram.org/bots/api)
    - 🤖[ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
@@ -53,7 +50,6 @@ MPA or My Personal Assistant или Мой Личный Помощник - эт�
 
 ## Docker
 
----
 1. Получи доступ к API:
    - 🎮[Telegram Bot API](https://core.telegram.org/bots/api)
    - 🤖[ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
